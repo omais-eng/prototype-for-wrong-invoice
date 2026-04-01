@@ -1,5 +1,14 @@
 # AI Invoice Resolution Platform (AIRP)
 
+## ▶️ Run instantly — no installation needed
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/omais-eng/prototype-for-wrong-invoice?quickstart=1)
+
+> Click the button above → GitHub spins up the full environment → Dashboard opens automatically in your browser.
+> The entire stack (Frontend + Backend + Database + Mock ERP) starts in ~2 minutes, fully in the cloud.
+
+---
+
 An AI-powered Invoice Validation and Resolution System built to handle **200,000+ invoices per year**, automatically detecting errors, duplicates, PO mismatches, and contract violations — then routing invoices to the right action without manual work.
 
 ---

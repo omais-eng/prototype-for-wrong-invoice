@@ -1,0 +1,63 @@
+{
+  "name": "AI Invoice Resolution Platform (AIRP)",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "version": "latest",
+      "dockerDashComposeVersion": "v2"
+    },
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "18"
+    },
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.11"
+    }
+  },
+
+  "forwardPorts": [3001, 8080, 8010, 5433],
+
+  "portsAttributes": {
+    "3001": {
+      "label": "AIRP Dashboard (Frontend)",
+      "onAutoForward": "openBrowser",
+      "protocol": "http"
+    },
+    "8080": {
+      "label": "AIRP Backend API",
+      "onAutoForward": "notify",
+      "protocol": "http"
+    },
+    "8010": {
+      "label": "Mock ERP API",
+      "onAutoForward": "notify",
+      "protocol": "http"
+    }
+  },
+
+  "postStartCommand": "cd /workspaces/prototype-for-wrong-invoice && docker compose up --build -d && echo '\n\n✅ AIRP is running!\n   Dashboard → http://localhost:3001\n   API Docs  → http://localhost:8080/docs\n   Mock ERP  → http://localhost:8010/docs\n'",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
+        "ms-azuretools.vscode-docker",
+        "humao.rest-client"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python3",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      }
+    }
+  },
+
+  "remoteEnv": {
+    "ANTHROPIC_API_KEY": "${localEnv:ANTHROPIC_API_KEY}",
+    "NEXT_PUBLIC_API_URL": "http://localhost:8080/api/v1"
+  }
+}

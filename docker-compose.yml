@@ -9,7 +9,7 @@ services:
       POSTGRES_PASSWORD: airp_pass
       POSTGRES_DB: airp_db
     ports:
-      - "5432:5432"
+      - "5433:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
@@ -22,7 +22,7 @@ services:
     image: redis:7-alpine
     container_name: airp_redis
     ports:
-      - "6379:6379"
+      - "6380:6379"
     healthcheck:
       test: ["CMD", "redis-cli", "ping"]
       interval: 10s
@@ -35,7 +35,7 @@ services:
       dockerfile: Dockerfile
     container_name: airp_mock_erp
     ports:
-      - "8001:8001"
+      - "8010:8001"
     environment:
       - PORT=8001
 
@@ -45,7 +45,7 @@ services:
       dockerfile: Dockerfile
     container_name: airp_backend
     ports:
-      - "8000:8000"
+      - "8080:8000"
     environment:
       - DATABASE_URL=postgresql+asyncpg://airp:airp_pass@postgres:5432/airp_db
       - REDIS_URL=redis://redis:6379
@@ -76,7 +76,7 @@ services:
       dockerfile: Dockerfile
     container_name: airp_frontend
     ports:
-      - "3000:3000"
+      - "3001:3000"
     environment:
       - NEXT_PUBLIC_API_URL=http://localhost:8000/api/v1
     depends_on:
