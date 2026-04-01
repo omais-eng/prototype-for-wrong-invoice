@@ -39,3 +39,4 @@ scripts/sample_invoices/
 
 # Mock ERP data (generated at runtime)
 mock-erp/data/*.json
+frontend/node_modules/
