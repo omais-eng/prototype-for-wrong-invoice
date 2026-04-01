@@ -1,0 +1,405 @@
+[
+  {
+    "contract_id": "CON-001",
+    "vendor_id": "VND-001",
+    "vendor_name": "Rodriguez, Figueroa and Sanchez",
+    "contract_number": "CTR-8932-2023",
+    "status": "active",
+    "start_date": "2023-10-30",
+    "end_date": "2026-05-24",
+    "approved_rates": {
+      "support": 75.22,
+      "logistics": 59.4,
+      "consulting": 150.59,
+      "development": 236.95
+    },
+    "currency": "USD",
+    "max_value": 202566.48,
+    "payment_terms": "Net 30",
+    "auto_renewal": true,
+    "signed_date": "2023-10-10",
+    "contract_manager": "Aaron Gomez"
+  },
+  {
+    "contract_id": "CON-002",
+    "vendor_id": "VND-002",
+    "vendor_name": "Stanley LLC",
+    "contract_number": "CTR-9621-2024",
+    "status": "active",
+    "start_date": "2024-04-21",
+    "end_date": "2027-01-09",
+    "approved_rates": {
+      "training": 132.54,
+      "support": 65.82,
+      "consulting": 159.13
+    },
+    "currency": "USD",
+    "max_value": 420053.58,
+    "payment_terms": "Net 60",
+    "auto_renewal": false,
+    "signed_date": "2024-04-06",
+    "contract_manager": "Heather Ashley"
+  },
+  {
+    "contract_id": "CON-003",
+    "vendor_id": "VND-003",
+    "vendor_name": "Hurst-Ross",
+    "contract_number": "CTR-8888-2025",
+    "status": "active",
+    "start_date": "2025-12-15",
+    "end_date": "2026-06-09",
+    "approved_rates": {
+      "logistics": 60.36,
+      "support": 82.59,
+      "training": 109.0
+    },
+    "currency": "USD",
+    "max_value": 249758.77,
+    "payment_terms": "Net 45",
+    "auto_renewal": false,
+    "signed_date": "2025-12-09",
+    "contract_manager": "Shane Williams"
+  },
+  {
+    "contract_id": "CON-004",
+    "vendor_id": "VND-004",
+    "vendor_name": "Nguyen, Smith and Hickman",
+    "contract_number": "CTR-6540-2024",
+    "status": "active",
+    "start_date": "2024-03-16",
+    "end_date": "2026-10-27",
+    "approved_rates": {
+      "maintenance": 97.64,
+      "support": 74.41,
+      "consulting": 154.44,
+      "logistics": 66.75
+    },
+    "currency": "USD",
+    "max_value": 121994.03,
+    "payment_terms": "Net 30",
+    "auto_renewal": true,
+    "signed_date": "2024-03-07",
+    "contract_manager": "Austin Allen"
+  },
+  {
+    "contract_id": "CON-005",
+    "vendor_id": "VND-005",
+    "vendor_name": "Ryan Ltd",
+    "contract_number": "CTR-1952-2023",
+    "status": "active",
+    "start_date": "2023-11-12",
+    "end_date": "2027-03-07",
+    "approved_rates": {
+      "maintenance": 83.93,
+      "consulting": 161.37,
+      "development": 195.35,
+      "training": 141.88
+    },
+    "currency": "USD",
+    "max_value": 64573.4,
+    "payment_terms": "Net 30",
+    "auto_renewal": true,
+    "signed_date": "2023-10-17",
+    "contract_manager": "Joshua Li"
+  },
+  {
+    "contract_id": "CON-006",
+    "vendor_id": "VND-006",
+    "vendor_name": "Martin Inc",
+    "contract_number": "CTR-2772-2024",
+    "status": "active",
+    "start_date": "2024-12-25",
+    "end_date": "2026-11-05",
+    "approved_rates": {
+      "maintenance": 93.18,
+      "consulting": 148.4,
+      "development": 215.47
+    },
+    "currency": "USD",
+    "max_value": 162325.24,
+    "payment_terms": "Due on Receipt",
+    "auto_renewal": true,
+    "signed_date": "2024-12-20",
+    "contract_manager": "Amy Parsons"
+  },
+  {
+    "contract_id": "CON-007",
+    "vendor_id": "VND-007",
+    "vendor_name": "Hickman-Walls",
+    "contract_number": "CTR-7043-2024",
+    "status": "active",
+    "start_date": "2024-03-07",
+    "end_date": "2026-08-03",
+    "approved_rates": {
+      "training": 112.99,
+      "maintenance": 84.7,
+      "consulting": 150.93
+    },
+    "currency": "USD",
+    "max_value": 498364.3,
+    "payment_terms": "Net 30",
+    "auto_renewal": false,
+    "signed_date": "2024-02-09",
+    "contract_manager": "Curtis Williams"
+  },
+  {
+    "contract_id": "CON-008",
+    "vendor_id": "VND-008",
+    "vendor_name": "King-Odonnell",
+    "contract_number": "CTR-4868-2024",
+    "status": "active",
+    "start_date": "2024-11-13",
+    "end_date": "2026-08-10",
+    "approved_rates": {
+      "development": 201.64,
+      "consulting": 174.68
+    },
+    "currency": "USD",
+    "max_value": 250300.04,
+    "payment_terms": "Net 45",
+    "auto_renewal": true,
+    "signed_date": "2024-10-14",
+    "contract_manager": "Andrew Lucas"
+  },
+  {
+    "contract_id": "CON-009",
+    "vendor_id": "VND-009",
+    "vendor_name": "Johnson-Doyle",
+    "contract_number": "CTR-4505-2024",
+    "status": "active",
+    "start_date": "2024-05-01",
+    "end_date": "2026-10-10",
+    "approved_rates": {
+      "support": 86.1,
+      "consulting": 164.87,
+      "logistics": 70.47,
+      "development": 214.64
+    },
+    "currency": "USD",
+    "max_value": 407163.37,
+    "payment_terms": "Net 30",
+    "auto_renewal": true,
+    "signed_date": "2024-04-23",
+    "contract_manager": "Robert Kim"
+  },
+  {
+    "contract_id": "CON-010",
+    "vendor_id": "VND-010",
+    "vendor_name": "Lam-Lee",
+    "contract_number": "CTR-6765-2025",
+    "status": "active",
+    "start_date": "2025-09-06",
+    "end_date": "2026-07-10",
+    "approved_rates": {
+      "maintenance": 87.87,
+      "consulting": 157.54
+    },
+    "currency": "USD",
+    "max_value": 260332.63,
+    "payment_terms": "Net 45",
+    "auto_renewal": true,
+    "signed_date": "2025-08-13",
+    "contract_manager": "Kathleen Jimenez"
+  },
+  {
+    "contract_id": "CON-011",
+    "vendor_id": "VND-011",
+    "vendor_name": "Robertson-Schultz",
+    "contract_number": "CTR-8416-2026",
+    "status": "active",
+    "start_date": "2026-01-01",
+    "end_date": "2026-06-02",
+    "approved_rates": {
+      "maintenance": 100.73,
+      "logistics": 68.29,
+      "training": 105.1
+    },
+    "currency": "USD",
+    "max_value": 487570.88,
+    "payment_terms": "Due on Receipt",
+    "auto_renewal": true,
+    "signed_date": "2025-12-13",
+    "contract_manager": "Lance Short"
+  },
+  {
+    "contract_id": "CON-012",
+    "vendor_id": "VND-012",
+    "vendor_name": "Larsen LLC",
+    "contract_number": "CTR-8451-2024",
+    "status": "active",
+    "start_date": "2024-12-08",
+    "end_date": "2027-01-19",
+    "approved_rates": {
+      "development": 223.74,
+      "training": 107.42,
+      "logistics": 61.56
+    },
+    "currency": "USD",
+    "max_value": 440695.23,
+    "payment_terms": "Due on Receipt",
+    "auto_renewal": true,
+    "signed_date": "2024-11-17",
+    "contract_manager": "Matthew Parker"
+  },
+  {
+    "contract_id": "CON-013",
+    "vendor_id": "VND-013",
+    "vendor_name": "Robinson-Graham",
+    "contract_number": "CTR-9627-2025",
+    "status": "active",
+    "start_date": "2025-10-25",
+    "end_date": "2026-10-02",
+    "approved_rates": {
+      "development": 235.43,
+      "support": 69.67
+    },
+    "currency": "USD",
+    "max_value": 476367.41,
+    "payment_terms": "Net 60",
+    "auto_renewal": false,
+    "signed_date": "2025-10-18",
+    "contract_manager": "Andrew Berg"
+  },
+  {
+    "contract_id": "CON-014",
+    "vendor_id": "VND-014",
+    "vendor_name": "Allen Group",
+    "contract_number": "CTR-5964-2025",
+    "status": "active",
+    "start_date": "2025-07-17",
+    "end_date": "2026-08-08",
+    "approved_rates": {
+      "training": 114.72,
+      "support": 77.75,
+      "development": 205.18,
+      "logistics": 54.54
+    },
+    "currency": "USD",
+    "max_value": 473723.14,
+    "payment_terms": "Net 30",
+    "auto_renewal": true,
+    "signed_date": "2025-07-07",
+    "contract_manager": "Rebecca Brown"
+  },
+  {
+    "contract_id": "CON-015",
+    "vendor_id": "VND-015",
+    "vendor_name": "Nelson, Morton and Medina",
+    "contract_number": "CTR-6582-2024",
+    "status": "active",
+    "start_date": "2024-05-25",
+    "end_date": "2027-03-15",
+    "approved_rates": {
+      "training": 105.41,
+      "support": 88.65,
+      "consulting": 167.98,
+      "maintenance": 84.84
+    },
+    "currency": "USD",
+    "max_value": 144863.77,
+    "payment_terms": "Net 45",
+    "auto_renewal": false,
+    "signed_date": "2024-05-01",
+    "contract_manager": "Brenda Lawson"
+  },
+  {
+    "contract_id": "CON-016",
+    "vendor_id": "VND-016",
+    "vendor_name": "Perkins, Kennedy and Schmidt",
+    "contract_number": "CTR-7021-2024",
+    "status": "active",
+    "start_date": "2024-06-14",
+    "end_date": "2026-05-15",
+    "approved_rates": {
+      "logistics": 64.48,
+      "training": 114.69,
+      "support": 70.18
+    },
+    "currency": "USD",
+    "max_value": 413307.19,
+    "payment_terms": "Due on Receipt",
+    "auto_renewal": false,
+    "signed_date": "2024-05-31",
+    "contract_manager": "Matthew Cox"
+  },
+  {
+    "contract_id": "CON-017",
+    "vendor_id": "VND-017",
+    "vendor_name": "Sheppard LLC",
+    "contract_number": "CTR-9092-2024",
+    "status": "active",
+    "start_date": "2024-12-21",
+    "end_date": "2026-06-06",
+    "approved_rates": {
+      "consulting": 152.92,
+      "development": 184.28,
+      "maintenance": 95.61,
+      "training": 115.13
+    },
+    "currency": "USD",
+    "max_value": 373263.3,
+    "payment_terms": "Net 60",
+    "auto_renewal": false,
+    "signed_date": "2024-12-04",
+    "contract_manager": "Tiffany Watson"
+  },
+  {
+    "contract_id": "CON-018",
+    "vendor_id": "VND-018",
+    "vendor_name": "Hayes-Wheeler",
+    "contract_number": "CTR-1928-2025",
+    "status": "active",
+    "start_date": "2025-11-17",
+    "end_date": "2026-11-05",
+    "approved_rates": {
+      "training": 121.59,
+      "consulting": 141.54,
+      "support": 70.26,
+      "logistics": 53.03
+    },
+    "currency": "USD",
+    "max_value": 180595.4,
+    "payment_terms": "Net 45",
+    "auto_renewal": false,
+    "signed_date": "2025-10-24",
+    "contract_manager": "Ernest Ramirez"
+  },
+  {
+    "contract_id": "CON-019",
+    "vendor_id": "VND-019",
+    "vendor_name": "Underwood, Johnston and Hines",
+    "contract_number": "CTR-1027-2025",
+    "status": "active",
+    "start_date": "2025-01-26",
+    "end_date": "2026-09-04",
+    "approved_rates": {
+      "support": 82.68,
+      "training": 109.97
+    },
+    "currency": "USD",
+    "max_value": 121704.09,
+    "payment_terms": "Net 60",
+    "auto_renewal": false,
+    "signed_date": "2025-01-06",
+    "contract_manager": "Susan Wilson"
+  },
+  {
+    "contract_id": "CON-020",
+    "vendor_id": "VND-020",
+    "vendor_name": "Johnson Ltd",
+    "contract_number": "CTR-4739-2025",
+    "status": "active",
+    "start_date": "2025-05-19",
+    "end_date": "2027-01-09",
+    "approved_rates": {
+      "consulting": 154.04,
+      "maintenance": 106.95
+    },
+    "currency": "USD",
+    "max_value": 146814.99,
+    "payment_terms": "Net 30",
+    "auto_renewal": false,
+    "signed_date": "2025-05-13",
+    "contract_manager": "Thomas Henry"
+  }
+]

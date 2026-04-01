@@ -1,0 +1,4570 @@
+[
+  {
+    "invoice_number": "INV-2024-00001",
+    "vendor_id": "VND-016",
+    "vendor_name": "Perkins, Kennedy and Schmidt",
+    "po_number": "PO-2024-0025",
+    "contract_id": "CON-016",
+    "invoice_date": "2024-12-04",
+    "due_date": "2025-01-12",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 29,
+        "unit": "units",
+        "unit_price": 114.69,
+        "line_total": 3326.01
+      },
+      {
+        "line_number": 2,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 2,
+        "unit": "hours",
+        "unit_price": 114.69,
+        "line_total": 229.38
+      }
+    ],
+    "subtotal": 3555.39,
+    "tax_rate": 0.1,
+    "tax_amount": 355.54,
+    "total_amount": 3910.93,
+    "currency": "USD",
+    "payment_date": "2025-01-20",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Rita Ponce DVM"
+  },
+  {
+    "invoice_number": "INV-2025-00002",
+    "vendor_id": "VND-020",
+    "vendor_name": "Johnson Ltd",
+    "po_number": "PO-2024-0049",
+    "contract_id": "CON-020",
+    "invoice_date": "2025-11-29",
+    "due_date": "2026-01-02",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 18,
+        "unit": "units",
+        "unit_price": 106.95,
+        "line_total": 1925.1
+      },
+      {
+        "line_number": 2,
+        "description": "Annual maintenance contract",
+        "category": "maintenance",
+        "quantity": 17,
+        "unit": "units",
+        "unit_price": 106.95,
+        "line_total": 1818.15
+      },
+      {
+        "line_number": 3,
+        "description": "Software patch management",
+        "category": "maintenance",
+        "quantity": 17,
+        "unit": "units",
+        "unit_price": 106.95,
+        "line_total": 1818.15
+      }
+    ],
+    "subtotal": 5561.4,
+    "tax_rate": 0.08,
+    "tax_amount": 444.91,
+    "total_amount": 6006.31,
+    "currency": "USD",
+    "payment_date": "2026-01-04",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Tammy Little"
+  },
+  {
+    "invoice_number": "INV-2025-00003",
+    "vendor_id": "VND-010",
+    "vendor_name": "Lam-Lee",
+    "po_number": "PO-2024-0042",
+    "contract_id": "CON-010",
+    "invoice_date": "2025-04-20",
+    "due_date": "2025-06-05",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Strategic consulting \u2014 Q3 2024",
+        "category": "consulting",
+        "quantity": 16,
+        "unit": "days",
+        "unit_price": 157.54,
+        "line_total": 2520.64
+      },
+      {
+        "line_number": 2,
+        "description": "Strategic consulting \u2014 Q4 2024",
+        "category": "consulting",
+        "quantity": 10,
+        "unit": "hours",
+        "unit_price": 157.54,
+        "line_total": 1575.4
+      },
+      {
+        "line_number": 3,
+        "description": "Strategic consulting \u2014 Q4 2023",
+        "category": "consulting",
+        "quantity": 24,
+        "unit": "units",
+        "unit_price": 157.54,
+        "line_total": 3780.96
+      }
+    ],
+    "subtotal": 7877.0,
+    "tax_rate": 0.05,
+    "tax_amount": 393.85,
+    "total_amount": 8270.85,
+    "currency": "USD",
+    "payment_date": "2025-06-15",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Allison Spencer"
+  },
+  {
+    "invoice_number": "INV-2025-00004",
+    "vendor_id": "VND-004",
+    "vendor_name": "Nguyen, Smith and Hickman",
+    "po_number": "PO-2024-0016",
+    "contract_id": "CON-004",
+    "invoice_date": "2025-09-16",
+    "due_date": "2025-10-16",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Preventive maintenance \u2014 October",
+        "category": "maintenance",
+        "quantity": 23,
+        "unit": "days",
+        "unit_price": 97.64,
+        "line_total": 2245.72
+      },
+      {
+        "line_number": 2,
+        "description": "Annual maintenance contract",
+        "category": "maintenance",
+        "quantity": 24,
+        "unit": "units",
+        "unit_price": 97.64,
+        "line_total": 2343.36
+      },
+      {
+        "line_number": 3,
+        "description": "Software patch management",
+        "category": "maintenance",
+        "quantity": 22,
+        "unit": "days",
+        "unit_price": 97.64,
+        "line_total": 2148.08
+      },
+      {
+        "line_number": 4,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 11,
+        "unit": "units",
+        "unit_price": 97.64,
+        "line_total": 1074.04
+      }
+    ],
+    "subtotal": 7811.2,
+    "tax_rate": 0.05,
+    "tax_amount": 390.56,
+    "total_amount": 8201.76,
+    "currency": "USD",
+    "payment_date": "2025-10-19",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Patricia Morrow"
+  },
+  {
+    "invoice_number": "INV-2025-00005",
+    "vendor_id": "VND-010",
+    "vendor_name": "Lam-Lee",
+    "po_number": null,
+    "contract_id": "CON-010",
+    "invoice_date": "2025-06-08",
+    "due_date": "2025-07-30",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 12,
+        "unit": "days",
+        "unit_price": 129.26,
+        "line_total": 1551.12
+      },
+      {
+        "line_number": 2,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 29,
+        "unit": "units",
+        "unit_price": 185.8,
+        "line_total": 5388.2
+      },
+      {
+        "line_number": 3,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 3,
+        "unit": "hours",
+        "unit_price": 288.83,
+        "line_total": 866.49
+      },
+      {
+        "line_number": 4,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 18,
+        "unit": "days",
+        "unit_price": 100.52,
+        "line_total": 1809.36
+      }
+    ],
+    "subtotal": 9615.17,
+    "tax_rate": 0.05,
+    "tax_amount": 480.76,
+    "total_amount": 10095.93,
+    "currency": "USD",
+    "payment_date": "2025-08-02",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Catherine Burch"
+  },
+  {
+    "invoice_number": "INV-2025-00006",
+    "vendor_id": "VND-008",
+    "vendor_name": "King-Odonnell",
+    "po_number": null,
+    "contract_id": "CON-008",
+    "invoice_date": "2025-08-04",
+    "due_date": "2025-09-04",
+    "status": "rejected",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 25,
+        "unit": "days",
+        "unit_price": 75.14,
+        "line_total": 1878.5
+      },
+      {
+        "line_number": 2,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 29,
+        "unit": "units",
+        "unit_price": 283.76,
+        "line_total": 8229.04
+      },
+      {
+        "line_number": 3,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 2,
+        "unit": "units",
+        "unit_price": 121.35,
+        "line_total": 242.7
+      },
+      {
+        "line_number": 4,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 6,
+        "unit": "hours",
+        "unit_price": 270.56,
+        "line_total": 1623.36
+      }
+    ],
+    "subtotal": 11973.6,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 11973.6,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "PO number not found or closed",
+      "Duplicate invoice submission"
+    ],
+    "notes": "",
+    "submitted_by": "Todd Jacobson"
+  },
+  {
+    "invoice_number": "INV-2024-00007",
+    "vendor_id": "VND-018",
+    "vendor_name": "Hayes-Wheeler",
+    "po_number": "PO-2024-0009",
+    "contract_id": "CON-018",
+    "invoice_date": "2024-10-10",
+    "due_date": "2024-11-24",
+    "status": "rejected",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Freight & shipping \u2014 July",
+        "category": "logistics",
+        "quantity": 26,
+        "unit": "days",
+        "unit_price": 53.03,
+        "line_total": 1378.78
+      },
+      {
+        "line_number": 2,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 24,
+        "unit": "days",
+        "unit_price": 53.03,
+        "line_total": 1272.72
+      },
+      {
+        "line_number": 3,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 27,
+        "unit": "hours",
+        "unit_price": 72.6,
+        "line_total": 1960.2
+      },
+      {
+        "line_number": 4,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 30,
+        "unit": "units",
+        "unit_price": 65.93,
+        "line_total": 1977.9
+      }
+    ],
+    "subtotal": 6589.6,
+    "tax_rate": 0.08,
+    "tax_amount": 527.17,
+    "total_amount": 7116.77,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Quantity billed exceeds PO quantity",
+      "Vendor not approved for this service category"
+    ],
+    "notes": "Political option oil commercial person top front.",
+    "submitted_by": "Amanda Shields"
+  },
+  {
+    "invoice_number": "INV-2025-00008",
+    "vendor_id": "VND-012",
+    "vendor_name": "Larsen LLC",
+    "po_number": "PO-2024-0044",
+    "contract_id": "CON-012",
+    "invoice_date": "2025-08-01",
+    "due_date": "2025-09-01",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 17,
+        "unit": "days",
+        "unit_price": 151.35,
+        "line_total": 2572.95
+      },
+      {
+        "line_number": 2,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 5,
+        "unit": "units",
+        "unit_price": 105.21,
+        "line_total": 526.05
+      }
+    ],
+    "subtotal": 3099.0,
+    "tax_rate": 0.1,
+    "tax_amount": 309.9,
+    "total_amount": 3408.9,
+    "currency": "USD",
+    "payment_date": "2025-09-09",
+    "rejection_reasons": [],
+    "notes": "Indicate police marriage phone face what lot.",
+    "submitted_by": "Melinda Evans"
+  },
+  {
+    "invoice_number": "INV-2026-00009",
+    "vendor_id": "VND-008",
+    "vendor_name": "King-Odonnell",
+    "po_number": "PO-2024-0046",
+    "contract_id": "CON-008",
+    "invoice_date": "2026-01-06",
+    "due_date": "2026-02-21",
+    "status": "rejected",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Annual maintenance contract",
+        "category": "maintenance",
+        "quantity": 4,
+        "unit": "hours",
+        "unit_price": 279.31,
+        "line_total": 1117.24
+      }
+    ],
+    "subtotal": 1117.24,
+    "tax_rate": 0.08,
+    "tax_amount": 89.38,
+    "total_amount": 1206.62,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "PO number not found or closed",
+      "Service period outside contract dates"
+    ],
+    "notes": "",
+    "submitted_by": "Jason Marshall"
+  },
+  {
+    "invoice_number": "INV-2024-00010",
+    "vendor_id": "VND-003",
+    "vendor_name": "Hurst-Ross",
+    "po_number": "PO-2024-0031",
+    "contract_id": "CON-003",
+    "invoice_date": "2024-10-24",
+    "due_date": "2024-12-07",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 2,
+        "unit": "units",
+        "unit_price": 164.2,
+        "line_total": 328.4
+      },
+      {
+        "line_number": 2,
+        "description": "Preventive maintenance \u2014 August",
+        "category": "maintenance",
+        "quantity": 1,
+        "unit": "days",
+        "unit_price": 113.61,
+        "line_total": 113.61
+      },
+      {
+        "line_number": 3,
+        "description": "Annual maintenance contract",
+        "category": "maintenance",
+        "quantity": 2,
+        "unit": "hours",
+        "unit_price": 65.94,
+        "line_total": 131.88
+      },
+      {
+        "line_number": 4,
+        "description": "Software patch management",
+        "category": "maintenance",
+        "quantity": 25,
+        "unit": "units",
+        "unit_price": 242.24,
+        "line_total": 6056.0
+      }
+    ],
+    "subtotal": 6629.89,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 6629.89,
+    "currency": "USD",
+    "payment_date": "2024-12-17",
+    "rejection_reasons": [],
+    "notes": "Middle blood drop business last cell.",
+    "submitted_by": "Tony Lin"
+  },
+  {
+    "invoice_number": "INV-2025-00011",
+    "vendor_id": "VND-005",
+    "vendor_name": "Ryan Ltd",
+    "po_number": null,
+    "contract_id": "CON-005",
+    "invoice_date": "2025-04-08",
+    "due_date": "2025-05-11",
+    "status": "rejected",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "End-user training \u2014 Designer, dept",
+        "category": "training",
+        "quantity": 8,
+        "unit": "units",
+        "unit_price": 187.05,
+        "line_total": 1496.4
+      },
+      {
+        "line_number": 2,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 8,
+        "unit": "days",
+        "unit_price": 191.11,
+        "line_total": 1528.88
+      },
+      {
+        "line_number": 3,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 22,
+        "unit": "hours",
+        "unit_price": 157.44,
+        "line_total": 3463.68
+      },
+      {
+        "line_number": 4,
+        "description": "End-user training \u2014 Research dept",
+        "category": "training",
+        "quantity": 22,
+        "unit": "units",
+        "unit_price": 175.07,
+        "line_total": 3851.54
+      }
+    ],
+    "subtotal": 10340.5,
+    "tax_rate": 0.05,
+    "tax_amount": 517.02,
+    "total_amount": 10857.52,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Unit price exceeds contracted rate"
+    ],
+    "notes": "",
+    "submitted_by": "Julie Koch DDS"
+  },
+  {
+    "invoice_number": "INV-2025-00012",
+    "vendor_id": "VND-008",
+    "vendor_name": "King-Odonnell",
+    "po_number": "PO-2024-0046",
+    "contract_id": "CON-008",
+    "invoice_date": "2025-05-08",
+    "due_date": "2025-06-25",
+    "status": "rejected",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 5,
+        "unit": "hours",
+        "unit_price": 125.44,
+        "line_total": 627.2
+      },
+      {
+        "line_number": 2,
+        "description": "Preventive maintenance \u2014 June",
+        "category": "maintenance",
+        "quantity": 19,
+        "unit": "units",
+        "unit_price": 189.18,
+        "line_total": 3594.42
+      }
+    ],
+    "subtotal": 4221.62,
+    "tax_rate": 0.1,
+    "tax_amount": 422.16,
+    "total_amount": 4643.78,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Tax calculation error",
+      "Missing supporting documentation"
+    ],
+    "notes": "",
+    "submitted_by": "Harry Williams"
+  },
+  {
+    "invoice_number": "INV-2024-00013",
+    "vendor_id": "VND-018",
+    "vendor_name": "Hayes-Wheeler",
+    "po_number": "PO-2024-0011",
+    "contract_id": "CON-018",
+    "invoice_date": "2024-12-01",
+    "due_date": "2025-01-07",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 26,
+        "unit": "days",
+        "unit_price": 141.54,
+        "line_total": 3680.04
+      },
+      {
+        "line_number": 2,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 17,
+        "unit": "units",
+        "unit_price": 141.54,
+        "line_total": 2406.18
+      }
+    ],
+    "subtotal": 6086.22,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 6086.22,
+    "currency": "USD",
+    "payment_date": "2025-01-14",
+    "rejection_reasons": [],
+    "notes": "Issue think road shake.",
+    "submitted_by": "James Hudson"
+  },
+  {
+    "invoice_number": "INV-2026-00014",
+    "vendor_id": "VND-007",
+    "vendor_name": "Hickman-Walls",
+    "po_number": "PO-2024-0006",
+    "contract_id": "CON-007",
+    "invoice_date": "2026-02-06",
+    "due_date": "2026-03-16",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 26,
+        "unit": "units",
+        "unit_price": 112.99,
+        "line_total": 2937.74
+      },
+      {
+        "line_number": 2,
+        "description": "End-user training \u2014 Nature dept",
+        "category": "training",
+        "quantity": 30,
+        "unit": "hours",
+        "unit_price": 112.99,
+        "line_total": 3389.7
+      }
+    ],
+    "subtotal": 6327.44,
+    "tax_rate": 0.05,
+    "tax_amount": 316.37,
+    "total_amount": 6643.81,
+    "currency": "USD",
+    "payment_date": "2026-03-22",
+    "rejection_reasons": [],
+    "notes": "Late near stay perhaps particularly campaign benefit.",
+    "submitted_by": "William Grant"
+  },
+  {
+    "invoice_number": "INV-2025-00015",
+    "vendor_id": "VND-010",
+    "vendor_name": "Lam-Lee",
+    "po_number": "PO-2024-0042",
+    "contract_id": "CON-010",
+    "invoice_date": "2025-03-06",
+    "due_date": "2025-04-19",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "IT consulting \u2014 Phase 1",
+        "category": "consulting",
+        "quantity": 12,
+        "unit": "units",
+        "unit_price": 157.54,
+        "line_total": 1890.48
+      },
+      {
+        "line_number": 2,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 30,
+        "unit": "days",
+        "unit_price": 157.54,
+        "line_total": 4726.2
+      },
+      {
+        "line_number": 3,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 28,
+        "unit": "days",
+        "unit_price": 157.54,
+        "line_total": 4411.12
+      }
+    ],
+    "subtotal": 11027.8,
+    "tax_rate": 0.1,
+    "tax_amount": 1102.78,
+    "total_amount": 12130.58,
+    "currency": "USD",
+    "payment_date": "2025-04-23",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Chad Cook"
+  },
+  {
+    "invoice_number": "INV-2025-00016",
+    "vendor_id": "VND-013",
+    "vendor_name": "Robinson-Graham",
+    "po_number": "PO-2024-0019",
+    "contract_id": "CON-013",
+    "invoice_date": "2025-07-22",
+    "due_date": "2025-09-05",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 16,
+        "unit": "hours",
+        "unit_price": 240.84,
+        "line_total": 3853.44
+      },
+      {
+        "line_number": 2,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 16,
+        "unit": "days",
+        "unit_price": 230.08,
+        "line_total": 3681.28
+      },
+      {
+        "line_number": 3,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 1,
+        "unit": "days",
+        "unit_price": 62.13,
+        "line_total": 62.13
+      }
+    ],
+    "subtotal": 7596.85,
+    "tax_rate": 0.05,
+    "tax_amount": 379.84,
+    "total_amount": 7976.69,
+    "currency": "USD",
+    "payment_date": "2025-09-05",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "James Jensen"
+  },
+  {
+    "invoice_number": "INV-2024-00017",
+    "vendor_id": "VND-002",
+    "vendor_name": "Stanley LLC",
+    "po_number": "PO-2024-0026",
+    "contract_id": "CON-002",
+    "invoice_date": "2024-11-21",
+    "due_date": "2025-01-11",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 17,
+        "unit": "hours",
+        "unit_price": 52.96,
+        "line_total": 900.32
+      },
+      {
+        "line_number": 2,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 4,
+        "unit": "days",
+        "unit_price": 76.75,
+        "line_total": 307.0
+      },
+      {
+        "line_number": 3,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 12,
+        "unit": "units",
+        "unit_price": 113.1,
+        "line_total": 1357.2
+      },
+      {
+        "line_number": 4,
+        "description": "Preventive maintenance \u2014 November",
+        "category": "maintenance",
+        "quantity": 23,
+        "unit": "hours",
+        "unit_price": 191.25,
+        "line_total": 4398.75
+      }
+    ],
+    "subtotal": 6963.27,
+    "tax_rate": 0.1,
+    "tax_amount": 696.33,
+    "total_amount": 7659.6,
+    "currency": "USD",
+    "payment_date": "2025-01-17",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Michael Whitney"
+  },
+  {
+    "invoice_number": "INV-2025-00018",
+    "vendor_id": "VND-001",
+    "vendor_name": "Rodriguez, Figueroa and Sanchez",
+    "po_number": null,
+    "contract_id": "CON-001",
+    "invoice_date": "2025-10-06",
+    "due_date": "2025-11-07",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 11,
+        "unit": "hours",
+        "unit_price": 211.23,
+        "line_total": 2323.53
+      },
+      {
+        "line_number": 2,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 23,
+        "unit": "days",
+        "unit_price": 275.32,
+        "line_total": 6332.36
+      },
+      {
+        "line_number": 3,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 29,
+        "unit": "hours",
+        "unit_price": 281.4,
+        "line_total": 8160.6
+      },
+      {
+        "line_number": 4,
+        "description": "Software patch management",
+        "category": "maintenance",
+        "quantity": 25,
+        "unit": "hours",
+        "unit_price": 196.76,
+        "line_total": 4919.0
+      }
+    ],
+    "subtotal": 21735.49,
+    "tax_rate": 0.1,
+    "tax_amount": 2173.55,
+    "total_amount": 23909.04,
+    "currency": "USD",
+    "payment_date": "2025-11-17",
+    "rejection_reasons": [],
+    "notes": "Lose modern return simple herself start drug occur.",
+    "submitted_by": "Cheryl Alexander"
+  },
+  {
+    "invoice_number": "INV-2026-00019",
+    "vendor_id": "VND-005",
+    "vendor_name": "Ryan Ltd",
+    "po_number": "PO-2024-0050",
+    "contract_id": "CON-005",
+    "invoice_date": "2026-01-09",
+    "due_date": "2026-02-24",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 14,
+        "unit": "days",
+        "unit_price": 161.37,
+        "line_total": 2259.18
+      }
+    ],
+    "subtotal": 2259.18,
+    "tax_rate": 0.1,
+    "tax_amount": 225.92,
+    "total_amount": 2485.1,
+    "currency": "USD",
+    "payment_date": "2026-03-01",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Jennifer Hampton"
+  },
+  {
+    "invoice_number": "INV-2024-00020",
+    "vendor_id": "VND-015",
+    "vendor_name": "Nelson, Morton and Medina",
+    "po_number": "PO-2024-0041",
+    "contract_id": "CON-015",
+    "invoice_date": "2024-11-13",
+    "due_date": "2024-12-20",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 22,
+        "unit": "days",
+        "unit_price": 219.92,
+        "line_total": 4838.24
+      },
+      {
+        "line_number": 2,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 9,
+        "unit": "units",
+        "unit_price": 68.38,
+        "line_total": 615.42
+      }
+    ],
+    "subtotal": 5453.66,
+    "tax_rate": 0.08,
+    "tax_amount": 436.29,
+    "total_amount": 5889.95,
+    "currency": "USD",
+    "payment_date": "2024-12-21",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Frederick Bates"
+  },
+  {
+    "invoice_number": "INV-2025-00021",
+    "vendor_id": "VND-015",
+    "vendor_name": "Nelson, Morton and Medina",
+    "po_number": null,
+    "contract_id": "CON-015",
+    "invoice_date": "2025-03-27",
+    "due_date": "2025-05-20",
+    "status": "rejected",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 15,
+        "unit": "units",
+        "unit_price": 96.85,
+        "line_total": 1452.75
+      }
+    ],
+    "subtotal": 1452.75,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 1452.75,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Tax calculation error",
+      "Unit price exceeds contracted rate"
+    ],
+    "notes": "",
+    "submitted_by": "Julia Patel"
+  },
+  {
+    "invoice_number": "INV-2025-00022",
+    "vendor_id": "VND-003",
+    "vendor_name": "Hurst-Ross",
+    "po_number": "PO-2024-0038",
+    "contract_id": "CON-003",
+    "invoice_date": "2025-07-25",
+    "due_date": "2025-09-11",
+    "status": "paid",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "API integration development",
+        "category": "development",
+        "quantity": 10,
+        "unit": "units",
+        "unit_price": 84.71,
+        "line_total": 847.1
+      },
+      {
+        "line_number": 2,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 10,
+        "unit": "days",
+        "unit_price": 118.99,
+        "line_total": 1189.9
+      }
+    ],
+    "subtotal": 2037.0,
+    "tax_rate": 0.1,
+    "tax_amount": 203.7,
+    "total_amount": 2240.7,
+    "currency": "USD",
+    "payment_date": "2025-09-20",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Diana Evans"
+  },
+  {
+    "invoice_number": "INV-2025-00023",
+    "vendor_id": "VND-005",
+    "vendor_name": "Ryan Ltd",
+    "po_number": "PO-2024-0050",
+    "contract_id": "CON-005",
+    "invoice_date": "2025-05-23",
+    "due_date": "2025-06-22",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 26,
+        "unit": "hours",
+        "unit_price": 161.37,
+        "line_total": 4195.62
+      },
+      {
+        "line_number": 2,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 10,
+        "unit": "units",
+        "unit_price": 161.37,
+        "line_total": 1613.7
+      },
+      {
+        "line_number": 3,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 11,
+        "unit": "units",
+        "unit_price": 161.37,
+        "line_total": 1775.07
+      },
+      {
+        "line_number": 4,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 9,
+        "unit": "days",
+        "unit_price": 161.37,
+        "line_total": 1452.33
+      }
+    ],
+    "subtotal": 9036.72,
+    "tax_rate": 0.05,
+    "tax_amount": 451.84,
+    "total_amount": 9488.56,
+    "currency": "USD",
+    "payment_date": "2025-07-02",
+    "rejection_reasons": [],
+    "notes": "Value somebody event business quality here woman.",
+    "submitted_by": "Tina Ballard"
+  },
+  {
+    "invoice_number": "INV-2025-00024",
+    "vendor_id": "VND-015",
+    "vendor_name": "Nelson, Morton and Medina",
+    "po_number": "PO-2024-0024",
+    "contract_id": "CON-015",
+    "invoice_date": "2025-08-28",
+    "due_date": "2025-10-11",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 5,
+        "unit": "units",
+        "unit_price": 167.98,
+        "line_total": 839.9
+      },
+      {
+        "line_number": 2,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 3,
+        "unit": "days",
+        "unit_price": 167.98,
+        "line_total": 503.94
+      },
+      {
+        "line_number": 3,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 30,
+        "unit": "days",
+        "unit_price": 167.98,
+        "line_total": 5039.4
+      },
+      {
+        "line_number": 4,
+        "description": "Strategic consulting \u2014 Q1 2023",
+        "category": "consulting",
+        "quantity": 30,
+        "unit": "days",
+        "unit_price": 167.98,
+        "line_total": 5039.4
+      }
+    ],
+    "subtotal": 11422.64,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 11422.64,
+    "currency": "USD",
+    "payment_date": "2025-10-20",
+    "rejection_reasons": [],
+    "notes": "Dark Mrs usually receive case.",
+    "submitted_by": "Laurie Sanchez"
+  },
+  {
+    "invoice_number": "INV-2025-00025",
+    "vendor_id": "VND-013",
+    "vendor_name": "Robinson-Graham",
+    "po_number": "PO-2024-0007",
+    "contract_id": "CON-013",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-06-24",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "IT consulting \u2014 Phase 3",
+        "category": "consulting",
+        "quantity": 17,
+        "unit": "units",
+        "unit_price": 114.68,
+        "line_total": 1949.56
+      }
+    ],
+    "subtotal": 1949.56,
+    "tax_rate": 0.05,
+    "tax_amount": 97.48,
+    "total_amount": 2047.04,
+    "currency": "USD",
+    "payment_date": "2025-06-29",
+    "rejection_reasons": [],
+    "notes": "Point appear including response beyond.",
+    "submitted_by": "Abigail Pierce"
+  },
+  {
+    "invoice_number": "INV-2025-00026",
+    "vendor_id": "VND-010",
+    "vendor_name": "Lam-Lee",
+    "po_number": "PO-2024-0005",
+    "contract_id": "CON-010",
+    "invoice_date": "2025-01-29",
+    "due_date": "2025-03-29",
+    "status": "paid",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 11,
+        "unit": "units",
+        "unit_price": 137.08,
+        "line_total": 1507.88
+      },
+      {
+        "line_number": 2,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 24,
+        "unit": "days",
+        "unit_price": 74.41,
+        "line_total": 1785.84
+      }
+    ],
+    "subtotal": 3293.72,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 3293.72,
+    "currency": "USD",
+    "payment_date": "2025-03-29",
+    "rejection_reasons": [],
+    "notes": "Practice sense expert experience arrive shoulder present.",
+    "submitted_by": "Parker Jefferson"
+  },
+  {
+    "invoice_number": "INV-2025-00027",
+    "vendor_id": "VND-006",
+    "vendor_name": "Martin Inc",
+    "po_number": null,
+    "contract_id": "CON-006",
+    "invoice_date": "2025-07-24",
+    "due_date": "2025-09-08",
+    "status": "paid",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 11,
+        "unit": "days",
+        "unit_price": 215.47,
+        "line_total": 2370.17
+      },
+      {
+        "line_number": 2,
+        "description": "Custom module development",
+        "category": "development",
+        "quantity": 6,
+        "unit": "hours",
+        "unit_price": 215.47,
+        "line_total": 1292.82
+      }
+    ],
+    "subtotal": 3662.99,
+    "tax_rate": 0.1,
+    "tax_amount": 366.3,
+    "total_amount": 4029.29,
+    "currency": "USD",
+    "payment_date": "2025-09-17",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Amanda Huff"
+  },
+  {
+    "invoice_number": "INV-2025-00028",
+    "vendor_id": "VND-007",
+    "vendor_name": "Hickman-Walls",
+    "po_number": "PO-2024-0006",
+    "contract_id": "CON-007",
+    "invoice_date": "2025-09-01",
+    "due_date": "2025-10-09",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 26,
+        "unit": "units",
+        "unit_price": 112.99,
+        "line_total": 2937.74
+      }
+    ],
+    "subtotal": 2937.74,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 2937.74,
+    "currency": "USD",
+    "payment_date": "2025-10-13",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Tonya Howe"
+  },
+  {
+    "invoice_number": "INV-2025-00029",
+    "vendor_id": "VND-011",
+    "vendor_name": "Robertson-Schultz",
+    "po_number": "PO-2024-0018",
+    "contract_id": "CON-011",
+    "invoice_date": "2025-02-26",
+    "due_date": "2025-04-16",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 20,
+        "unit": "days",
+        "unit_price": 261.38,
+        "line_total": 5227.6
+      },
+      {
+        "line_number": 2,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 4,
+        "unit": "days",
+        "unit_price": 83.49,
+        "line_total": 333.96
+      },
+      {
+        "line_number": 3,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 13,
+        "unit": "hours",
+        "unit_price": 85.34,
+        "line_total": 1109.42
+      }
+    ],
+    "subtotal": 6670.98,
+    "tax_rate": 0.1,
+    "tax_amount": 667.1,
+    "total_amount": 7338.08,
+    "currency": "USD",
+    "payment_date": "2025-04-26",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "William Daniels"
+  },
+  {
+    "invoice_number": "INV-2025-00030",
+    "vendor_id": "VND-006",
+    "vendor_name": "Martin Inc",
+    "po_number": null,
+    "contract_id": "CON-006",
+    "invoice_date": "2025-10-11",
+    "due_date": "2025-11-25",
+    "status": "rejected",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 27,
+        "unit": "hours",
+        "unit_price": 96.77,
+        "line_total": 2612.79
+      },
+      {
+        "line_number": 2,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 13,
+        "unit": "days",
+        "unit_price": 98.78,
+        "line_total": 1284.14
+      }
+    ],
+    "subtotal": 3896.93,
+    "tax_rate": 0.1,
+    "tax_amount": 389.69,
+    "total_amount": 4286.62,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Duplicate invoice submission",
+      "Unit price exceeds contracted rate"
+    ],
+    "notes": "",
+    "submitted_by": "Robert Rivera"
+  },
+  {
+    "invoice_number": "INV-2025-00031",
+    "vendor_id": "VND-008",
+    "vendor_name": "King-Odonnell",
+    "po_number": null,
+    "contract_id": "CON-008",
+    "invoice_date": "2025-06-04",
+    "due_date": "2025-07-05",
+    "status": "rejected",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 15,
+        "unit": "days",
+        "unit_price": 92.05,
+        "line_total": 1380.75
+      },
+      {
+        "line_number": 2,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 25,
+        "unit": "days",
+        "unit_price": 78.55,
+        "line_total": 1963.75
+      },
+      {
+        "line_number": 3,
+        "description": "End-user training \u2014 Hotel dept",
+        "category": "training",
+        "quantity": 14,
+        "unit": "units",
+        "unit_price": 104.64,
+        "line_total": 1464.96
+      }
+    ],
+    "subtotal": 4809.46,
+    "tax_rate": 0.08,
+    "tax_amount": 384.76,
+    "total_amount": 5194.22,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Vendor not approved for this service category"
+    ],
+    "notes": "Purpose cover particularly police if into foreign.",
+    "submitted_by": "Brandon Holden"
+  },
+  {
+    "invoice_number": "INV-2025-00032",
+    "vendor_id": "VND-008",
+    "vendor_name": "King-Odonnell",
+    "po_number": "PO-2024-0046",
+    "contract_id": "CON-008",
+    "invoice_date": "2025-08-28",
+    "due_date": "2025-10-22",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Preventive maintenance \u2014 November",
+        "category": "maintenance",
+        "quantity": 5,
+        "unit": "days",
+        "unit_price": 91.5,
+        "line_total": 457.5
+      },
+      {
+        "line_number": 2,
+        "description": "Preventive maintenance \u2014 May",
+        "category": "maintenance",
+        "quantity": 18,
+        "unit": "days",
+        "unit_price": 120.27,
+        "line_total": 2164.86
+      },
+      {
+        "line_number": 3,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 28,
+        "unit": "units",
+        "unit_price": 116.84,
+        "line_total": 3271.52
+      },
+      {
+        "line_number": 4,
+        "description": "Preventive maintenance \u2014 August",
+        "category": "maintenance",
+        "quantity": 5,
+        "unit": "days",
+        "unit_price": 266.76,
+        "line_total": 1333.8
+      }
+    ],
+    "subtotal": 7227.68,
+    "tax_rate": 0.1,
+    "tax_amount": 722.77,
+    "total_amount": 7950.45,
+    "currency": "USD",
+    "payment_date": "2025-10-29",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Laura Green"
+  },
+  {
+    "invoice_number": "INV-2025-00033",
+    "vendor_id": "VND-014",
+    "vendor_name": "Allen Group",
+    "po_number": null,
+    "contract_id": "CON-014",
+    "invoice_date": "2025-03-11",
+    "due_date": "2025-04-24",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 9,
+        "unit": "hours",
+        "unit_price": 178.9,
+        "line_total": 1610.1
+      },
+      {
+        "line_number": 2,
+        "description": "Strategic consulting \u2014 Q4 2025",
+        "category": "consulting",
+        "quantity": 28,
+        "unit": "days",
+        "unit_price": 267.23,
+        "line_total": 7482.44
+      },
+      {
+        "line_number": 3,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 14,
+        "unit": "units",
+        "unit_price": 149.43,
+        "line_total": 2092.02
+      },
+      {
+        "line_number": 4,
+        "description": "IT consulting \u2014 Phase 1",
+        "category": "consulting",
+        "quantity": 5,
+        "unit": "hours",
+        "unit_price": 186.83,
+        "line_total": 934.15
+      }
+    ],
+    "subtotal": 12118.71,
+    "tax_rate": 0.1,
+    "tax_amount": 1211.87,
+    "total_amount": 13330.58,
+    "currency": "USD",
+    "payment_date": "2025-04-24",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Stacy Carrillo"
+  },
+  {
+    "invoice_number": "INV-2024-00034",
+    "vendor_id": "VND-015",
+    "vendor_name": "Nelson, Morton and Medina",
+    "po_number": "PO-2024-0041",
+    "contract_id": "CON-015",
+    "invoice_date": "2024-12-18",
+    "due_date": "2025-01-17",
+    "status": "rejected",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 10,
+        "unit": "hours",
+        "unit_price": 270.54,
+        "line_total": 2705.4
+      },
+      {
+        "line_number": 2,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 29,
+        "unit": "units",
+        "unit_price": 142.96,
+        "line_total": 4145.84
+      }
+    ],
+    "subtotal": 6851.24,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 6851.24,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Unit price exceeds contracted rate"
+    ],
+    "notes": "",
+    "submitted_by": "Casey Hernandez"
+  },
+  {
+    "invoice_number": "INV-2025-00035",
+    "vendor_id": "VND-019",
+    "vendor_name": "Underwood, Johnston and Hines",
+    "po_number": "PO-2024-0008",
+    "contract_id": "CON-019",
+    "invoice_date": "2025-08-11",
+    "due_date": "2025-09-26",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "End-user training \u2014 Trading dept",
+        "category": "training",
+        "quantity": 27,
+        "unit": "hours",
+        "unit_price": 109.97,
+        "line_total": 2969.19
+      },
+      {
+        "line_number": 2,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 8,
+        "unit": "units",
+        "unit_price": 109.97,
+        "line_total": 879.76
+      },
+      {
+        "line_number": 3,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 12,
+        "unit": "hours",
+        "unit_price": 109.97,
+        "line_total": 1319.64
+      }
+    ],
+    "subtotal": 5168.59,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 5168.59,
+    "currency": "USD",
+    "payment_date": "2025-10-05",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Samantha Gill"
+  },
+  {
+    "invoice_number": "INV-2025-00036",
+    "vendor_id": "VND-007",
+    "vendor_name": "Hickman-Walls",
+    "po_number": "PO-2024-0028",
+    "contract_id": "CON-007",
+    "invoice_date": "2025-10-26",
+    "due_date": "2025-12-24",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Freight & shipping \u2014 April",
+        "category": "logistics",
+        "quantity": 5,
+        "unit": "hours",
+        "unit_price": 274.15,
+        "line_total": 1370.75
+      }
+    ],
+    "subtotal": 1370.75,
+    "tax_rate": 0.05,
+    "tax_amount": 68.54,
+    "total_amount": 1439.29,
+    "currency": "USD",
+    "payment_date": "2025-12-28",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Angela Griffin"
+  },
+  {
+    "invoice_number": "INV-2025-00037",
+    "vendor_id": "VND-020",
+    "vendor_name": "Johnson Ltd",
+    "po_number": "PO-2024-0012",
+    "contract_id": "CON-020",
+    "invoice_date": "2025-06-12",
+    "due_date": "2025-08-05",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 20,
+        "unit": "days",
+        "unit_price": 101.36,
+        "line_total": 2027.2
+      },
+      {
+        "line_number": 2,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 29,
+        "unit": "units",
+        "unit_price": 63.64,
+        "line_total": 1845.56
+      },
+      {
+        "line_number": 3,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 3,
+        "unit": "units",
+        "unit_price": 209.52,
+        "line_total": 628.56
+      }
+    ],
+    "subtotal": 4501.32,
+    "tax_rate": 0.1,
+    "tax_amount": 450.13,
+    "total_amount": 4951.45,
+    "currency": "USD",
+    "payment_date": "2025-08-10",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Christina Herrera"
+  },
+  {
+    "invoice_number": "INV-2026-00038",
+    "vendor_id": "VND-016",
+    "vendor_name": "Perkins, Kennedy and Schmidt",
+    "po_number": "PO-2024-0025",
+    "contract_id": "CON-016",
+    "invoice_date": "2026-01-15",
+    "due_date": "2026-02-14",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "End-user training \u2014 Scientist, dept",
+        "category": "training",
+        "quantity": 2,
+        "unit": "units",
+        "unit_price": 114.69,
+        "line_total": 229.38
+      },
+      {
+        "line_number": 2,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 14,
+        "unit": "days",
+        "unit_price": 114.69,
+        "line_total": 1605.66
+      }
+    ],
+    "subtotal": 1835.04,
+    "tax_rate": 0.05,
+    "tax_amount": 91.75,
+    "total_amount": 1926.79,
+    "currency": "USD",
+    "payment_date": "2026-02-18",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Katherine Nolan"
+  },
+  {
+    "invoice_number": "INV-2025-00039",
+    "vendor_id": "VND-007",
+    "vendor_name": "Hickman-Walls",
+    "po_number": "PO-2024-0006",
+    "contract_id": "CON-007",
+    "invoice_date": "2025-10-22",
+    "due_date": "2025-12-08",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 24,
+        "unit": "hours",
+        "unit_price": 112.99,
+        "line_total": 2711.76
+      },
+      {
+        "line_number": 2,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 15,
+        "unit": "hours",
+        "unit_price": 112.99,
+        "line_total": 1694.85
+      },
+      {
+        "line_number": 3,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 23,
+        "unit": "days",
+        "unit_price": 112.99,
+        "line_total": 2598.77
+      },
+      {
+        "line_number": 4,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 17,
+        "unit": "days",
+        "unit_price": 112.99,
+        "line_total": 1920.83
+      }
+    ],
+    "subtotal": 8926.21,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 8926.21,
+    "currency": "USD",
+    "payment_date": "2025-12-08",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Elizabeth Johnson"
+  },
+  {
+    "invoice_number": "INV-2026-00040",
+    "vendor_id": "VND-017",
+    "vendor_name": "Sheppard LLC",
+    "po_number": "PO-2024-0037",
+    "contract_id": "CON-017",
+    "invoice_date": "2026-01-24",
+    "due_date": "2026-03-03",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 2,
+        "unit": "hours",
+        "unit_price": 177.7,
+        "line_total": 355.4
+      },
+      {
+        "line_number": 2,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 22,
+        "unit": "hours",
+        "unit_price": 273.57,
+        "line_total": 6018.54
+      },
+      {
+        "line_number": 3,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 1,
+        "unit": "hours",
+        "unit_price": 264.67,
+        "line_total": 264.67
+      },
+      {
+        "line_number": 4,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 28,
+        "unit": "units",
+        "unit_price": 94.74,
+        "line_total": 2652.72
+      }
+    ],
+    "subtotal": 9291.33,
+    "tax_rate": 0.08,
+    "tax_amount": 743.31,
+    "total_amount": 10034.64,
+    "currency": "USD",
+    "payment_date": "2026-03-07",
+    "rejection_reasons": [],
+    "notes": "Yes various attorney value all important shoulder.",
+    "submitted_by": "Veronica Brewer"
+  },
+  {
+    "invoice_number": "INV-2024-00041",
+    "vendor_id": "VND-004",
+    "vendor_name": "Nguyen, Smith and Hickman",
+    "po_number": "PO-2024-0001",
+    "contract_id": "CON-004",
+    "invoice_date": "2024-11-01",
+    "due_date": "2024-12-22",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 13,
+        "unit": "hours",
+        "unit_price": 74.41,
+        "line_total": 967.33
+      }
+    ],
+    "subtotal": 967.33,
+    "tax_rate": 0.1,
+    "tax_amount": 96.73,
+    "total_amount": 1064.06,
+    "currency": "USD",
+    "payment_date": "2024-12-22",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Thomas Bennett"
+  },
+  {
+    "invoice_number": "INV-2025-00042",
+    "vendor_id": "VND-010",
+    "vendor_name": "Lam-Lee",
+    "po_number": "PO-2024-0042",
+    "contract_id": "CON-010",
+    "invoice_date": "2025-07-25",
+    "due_date": "2025-09-07",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Strategic consulting \u2014 Q4 2023",
+        "category": "consulting",
+        "quantity": 5,
+        "unit": "units",
+        "unit_price": 157.54,
+        "line_total": 787.7
+      },
+      {
+        "line_number": 2,
+        "description": "Strategic consulting \u2014 Q3 2023",
+        "category": "consulting",
+        "quantity": 21,
+        "unit": "hours",
+        "unit_price": 157.54,
+        "line_total": 3308.34
+      }
+    ],
+    "subtotal": 4096.04,
+    "tax_rate": 0.05,
+    "tax_amount": 204.8,
+    "total_amount": 4300.84,
+    "currency": "USD",
+    "payment_date": "2025-09-15",
+    "rejection_reasons": [],
+    "notes": "Condition Mr more road.",
+    "submitted_by": "Aaron Johnson"
+  },
+  {
+    "invoice_number": "INV-2025-00043",
+    "vendor_id": "VND-002",
+    "vendor_name": "Stanley LLC",
+    "po_number": null,
+    "contract_id": "CON-002",
+    "invoice_date": "2025-11-05",
+    "due_date": "2025-12-27",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "IT consulting \u2014 Phase 3",
+        "category": "consulting",
+        "quantity": 29,
+        "unit": "days",
+        "unit_price": 159.13,
+        "line_total": 4614.77
+      },
+      {
+        "line_number": 2,
+        "description": "IT consulting \u2014 Phase 2",
+        "category": "consulting",
+        "quantity": 3,
+        "unit": "hours",
+        "unit_price": 159.13,
+        "line_total": 477.39
+      }
+    ],
+    "subtotal": 5092.16,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 5092.16,
+    "currency": "USD",
+    "payment_date": "2026-01-02",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Danielle Reed"
+  },
+  {
+    "invoice_number": "INV-2025-00044",
+    "vendor_id": "VND-010",
+    "vendor_name": "Lam-Lee",
+    "po_number": "PO-2024-0042",
+    "contract_id": "CON-010",
+    "invoice_date": "2025-07-06",
+    "due_date": "2025-09-01",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 11,
+        "unit": "hours",
+        "unit_price": 157.54,
+        "line_total": 1732.94
+      },
+      {
+        "line_number": 2,
+        "description": "IT consulting \u2014 Phase 1",
+        "category": "consulting",
+        "quantity": 25,
+        "unit": "units",
+        "unit_price": 157.54,
+        "line_total": 3938.5
+      },
+      {
+        "line_number": 3,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 15,
+        "unit": "hours",
+        "unit_price": 157.54,
+        "line_total": 2363.1
+      }
+    ],
+    "subtotal": 8034.54,
+    "tax_rate": 0.1,
+    "tax_amount": 803.45,
+    "total_amount": 8837.99,
+    "currency": "USD",
+    "payment_date": "2025-09-05",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Austin Wheeler"
+  },
+  {
+    "invoice_number": "INV-2025-00045",
+    "vendor_id": "VND-003",
+    "vendor_name": "Hurst-Ross",
+    "po_number": "PO-2024-0038",
+    "contract_id": "CON-003",
+    "invoice_date": "2025-10-20",
+    "due_date": "2025-12-14",
+    "status": "rejected",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "API integration development",
+        "category": "development",
+        "quantity": 28,
+        "unit": "units",
+        "unit_price": 103.76,
+        "line_total": 2905.28
+      }
+    ],
+    "subtotal": 2905.28,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 2905.28,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Quantity billed exceeds PO quantity",
+      "Tax calculation error"
+    ],
+    "notes": "Scientist I doctor describe tell.",
+    "submitted_by": "Jonathan Roberts"
+  },
+  {
+    "invoice_number": "INV-2024-00046",
+    "vendor_id": "VND-013",
+    "vendor_name": "Robinson-Graham",
+    "po_number": "PO-2024-0007",
+    "contract_id": "CON-013",
+    "invoice_date": "2024-12-22",
+    "due_date": "2025-02-07",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 26,
+        "unit": "hours",
+        "unit_price": 75.48,
+        "line_total": 1962.48
+      },
+      {
+        "line_number": 2,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 13,
+        "unit": "hours",
+        "unit_price": 99.53,
+        "line_total": 1293.89
+      },
+      {
+        "line_number": 3,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 3,
+        "unit": "hours",
+        "unit_price": 55.45,
+        "line_total": 166.35
+      },
+      {
+        "line_number": 4,
+        "description": "Strategic consulting \u2014 Q2 2025",
+        "category": "consulting",
+        "quantity": 15,
+        "unit": "units",
+        "unit_price": 60.67,
+        "line_total": 910.05
+      }
+    ],
+    "subtotal": 4332.77,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 4332.77,
+    "currency": "USD",
+    "payment_date": "2025-02-13",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Ms. Jennifer Hill"
+  },
+  {
+    "invoice_number": "INV-2025-00047",
+    "vendor_id": "VND-007",
+    "vendor_name": "Hickman-Walls",
+    "po_number": null,
+    "contract_id": "CON-007",
+    "invoice_date": "2025-09-20",
+    "due_date": "2025-10-28",
+    "status": "paid",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Custom module development",
+        "category": "development",
+        "quantity": 20,
+        "unit": "units",
+        "unit_price": 203.53,
+        "line_total": 4070.6
+      }
+    ],
+    "subtotal": 4070.6,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 4070.6,
+    "currency": "USD",
+    "payment_date": "2025-10-29",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Susan Garrett"
+  },
+  {
+    "invoice_number": "INV-2024-00048",
+    "vendor_id": "VND-007",
+    "vendor_name": "Hickman-Walls",
+    "po_number": "PO-2024-0006",
+    "contract_id": "CON-007",
+    "invoice_date": "2024-10-08",
+    "due_date": "2024-11-14",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 16,
+        "unit": "units",
+        "unit_price": 112.99,
+        "line_total": 1807.84
+      },
+      {
+        "line_number": 2,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 13,
+        "unit": "hours",
+        "unit_price": 112.99,
+        "line_total": 1468.87
+      },
+      {
+        "line_number": 3,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 1,
+        "unit": "days",
+        "unit_price": 112.99,
+        "line_total": 112.99
+      }
+    ],
+    "subtotal": 3389.7,
+    "tax_rate": 0.05,
+    "tax_amount": 169.49,
+    "total_amount": 3559.19,
+    "currency": "USD",
+    "payment_date": "2024-11-16",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Emma Butler"
+  },
+  {
+    "invoice_number": "INV-2026-00049",
+    "vendor_id": "VND-009",
+    "vendor_name": "Johnson-Doyle",
+    "po_number": "PO-2024-0010",
+    "contract_id": "CON-009",
+    "invoice_date": "2026-02-01",
+    "due_date": "2026-03-27",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 12,
+        "unit": "days",
+        "unit_price": 86.1,
+        "line_total": 1033.2
+      },
+      {
+        "line_number": 2,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 23,
+        "unit": "days",
+        "unit_price": 86.1,
+        "line_total": 1980.3
+      },
+      {
+        "line_number": 3,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 5,
+        "unit": "hours",
+        "unit_price": 86.1,
+        "line_total": 430.5
+      },
+      {
+        "line_number": 4,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 16,
+        "unit": "hours",
+        "unit_price": 86.1,
+        "line_total": 1377.6
+      }
+    ],
+    "subtotal": 4821.6,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 4821.6,
+    "currency": "USD",
+    "payment_date": "2026-04-04",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Suzanne Hart"
+  },
+  {
+    "invoice_number": "INV-2025-00050",
+    "vendor_id": "VND-020",
+    "vendor_name": "Johnson Ltd",
+    "po_number": null,
+    "contract_id": "CON-020",
+    "invoice_date": "2025-09-05",
+    "due_date": "2025-10-30",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 28,
+        "unit": "days",
+        "unit_price": 279.7,
+        "line_total": 7831.6
+      },
+      {
+        "line_number": 2,
+        "description": "Freight & shipping \u2014 October",
+        "category": "logistics",
+        "quantity": 25,
+        "unit": "days",
+        "unit_price": 279.31,
+        "line_total": 6982.75
+      }
+    ],
+    "subtotal": 14814.35,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 14814.35,
+    "currency": "USD",
+    "payment_date": "2025-11-04",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Dalton Lucas"
+  },
+  {
+    "invoice_number": "INV-2025-00051",
+    "vendor_id": "VND-006",
+    "vendor_name": "Martin Inc",
+    "po_number": null,
+    "contract_id": "CON-006",
+    "invoice_date": "2025-01-07",
+    "due_date": "2025-03-03",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 6,
+        "unit": "units",
+        "unit_price": 212.3,
+        "line_total": 1273.8
+      },
+      {
+        "line_number": 2,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 23,
+        "unit": "units",
+        "unit_price": 126.71,
+        "line_total": 2914.33
+      },
+      {
+        "line_number": 3,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 25,
+        "unit": "days",
+        "unit_price": 262.69,
+        "line_total": 6567.25
+      },
+      {
+        "line_number": 4,
+        "description": "Freight & shipping \u2014 November",
+        "category": "logistics",
+        "quantity": 19,
+        "unit": "hours",
+        "unit_price": 105.22,
+        "line_total": 1999.18
+      }
+    ],
+    "subtotal": 12754.56,
+    "tax_rate": 0.08,
+    "tax_amount": 1020.36,
+    "total_amount": 13774.92,
+    "currency": "USD",
+    "payment_date": "2025-03-08",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Benjamin Ballard"
+  },
+  {
+    "invoice_number": "INV-2025-00052",
+    "vendor_id": "VND-003",
+    "vendor_name": "Hurst-Ross",
+    "po_number": null,
+    "contract_id": "CON-003",
+    "invoice_date": "2025-04-21",
+    "due_date": "2025-06-04",
+    "status": "rejected",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "API integration development",
+        "category": "development",
+        "quantity": 12,
+        "unit": "units",
+        "unit_price": 223.29,
+        "line_total": 2679.48
+      },
+      {
+        "line_number": 2,
+        "description": "Custom module development",
+        "category": "development",
+        "quantity": 14,
+        "unit": "days",
+        "unit_price": 159.56,
+        "line_total": 2233.84
+      }
+    ],
+    "subtotal": 4913.32,
+    "tax_rate": 0.1,
+    "tax_amount": 491.33,
+    "total_amount": 5404.65,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Vendor not approved for this service category"
+    ],
+    "notes": "Field training deep couple scientist section.",
+    "submitted_by": "Suzanne Dominguez"
+  },
+  {
+    "invoice_number": "INV-2025-00053",
+    "vendor_id": "VND-008",
+    "vendor_name": "King-Odonnell",
+    "po_number": null,
+    "contract_id": "CON-008",
+    "invoice_date": "2025-10-15",
+    "due_date": "2025-11-28",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 1,
+        "unit": "hours",
+        "unit_price": 174.68,
+        "line_total": 174.68
+      },
+      {
+        "line_number": 2,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 29,
+        "unit": "hours",
+        "unit_price": 174.68,
+        "line_total": 5065.72
+      },
+      {
+        "line_number": 3,
+        "description": "IT consulting \u2014 Phase 1",
+        "category": "consulting",
+        "quantity": 11,
+        "unit": "days",
+        "unit_price": 174.68,
+        "line_total": 1921.48
+      }
+    ],
+    "subtotal": 7161.88,
+    "tax_rate": 0.05,
+    "tax_amount": 358.09,
+    "total_amount": 7519.97,
+    "currency": "USD",
+    "payment_date": "2025-12-07",
+    "rejection_reasons": [],
+    "notes": "Letter possible final growth third letter.",
+    "submitted_by": "Miranda Gill"
+  },
+  {
+    "invoice_number": "INV-2025-00054",
+    "vendor_id": "VND-004",
+    "vendor_name": "Nguyen, Smith and Hickman",
+    "po_number": "PO-2024-0016",
+    "contract_id": "CON-004",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-05-31",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 22,
+        "unit": "units",
+        "unit_price": 97.64,
+        "line_total": 2148.08
+      },
+      {
+        "line_number": 2,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 19,
+        "unit": "hours",
+        "unit_price": 97.64,
+        "line_total": 1855.16
+      },
+      {
+        "line_number": 3,
+        "description": "Annual maintenance contract",
+        "category": "maintenance",
+        "quantity": 14,
+        "unit": "hours",
+        "unit_price": 97.64,
+        "line_total": 1366.96
+      }
+    ],
+    "subtotal": 5370.2,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 5370.2,
+    "currency": "USD",
+    "payment_date": "2025-05-31",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Alexis Tran"
+  },
+  {
+    "invoice_number": "INV-2024-00055",
+    "vendor_id": "VND-003",
+    "vendor_name": "Hurst-Ross",
+    "po_number": null,
+    "contract_id": "CON-003",
+    "invoice_date": "2024-12-01",
+    "due_date": "2025-01-27",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 22,
+        "unit": "hours",
+        "unit_price": 172.27,
+        "line_total": 3789.94
+      },
+      {
+        "line_number": 2,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 13,
+        "unit": "units",
+        "unit_price": 142.76,
+        "line_total": 1855.88
+      },
+      {
+        "line_number": 3,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 8,
+        "unit": "days",
+        "unit_price": 166.26,
+        "line_total": 1330.08
+      },
+      {
+        "line_number": 4,
+        "description": "Software patch management",
+        "category": "maintenance",
+        "quantity": 18,
+        "unit": "days",
+        "unit_price": 135.95,
+        "line_total": 2447.1
+      }
+    ],
+    "subtotal": 9423.0,
+    "tax_rate": 0.1,
+    "tax_amount": 942.3,
+    "total_amount": 10365.3,
+    "currency": "USD",
+    "payment_date": "2025-02-04",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Mr. Michael Scott PhD"
+  },
+  {
+    "invoice_number": "INV-2025-00056",
+    "vendor_id": "VND-019",
+    "vendor_name": "Underwood, Johnston and Hines",
+    "po_number": null,
+    "contract_id": "CON-019",
+    "invoice_date": "2025-08-01",
+    "due_date": "2025-09-15",
+    "status": "rejected",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 29,
+        "unit": "hours",
+        "unit_price": 175.53,
+        "line_total": 5090.37
+      }
+    ],
+    "subtotal": 5090.37,
+    "tax_rate": 0.05,
+    "tax_amount": 254.52,
+    "total_amount": 5344.89,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Duplicate invoice submission"
+    ],
+    "notes": "",
+    "submitted_by": "Nicholas Bell"
+  },
+  {
+    "invoice_number": "INV-2025-00057",
+    "vendor_id": "VND-014",
+    "vendor_name": "Allen Group",
+    "po_number": "PO-2024-0035",
+    "contract_id": "CON-014",
+    "invoice_date": "2025-09-05",
+    "due_date": "2025-10-31",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 3,
+        "unit": "days",
+        "unit_price": 77.75,
+        "line_total": 233.25
+      }
+    ],
+    "subtotal": 233.25,
+    "tax_rate": 0.1,
+    "tax_amount": 23.33,
+    "total_amount": 256.58,
+    "currency": "USD",
+    "payment_date": "2025-10-31",
+    "rejection_reasons": [],
+    "notes": "Contain threat wrong whatever model stuff avoid.",
+    "submitted_by": "Amber Smith"
+  },
+  {
+    "invoice_number": "INV-2025-00058",
+    "vendor_id": "VND-017",
+    "vendor_name": "Sheppard LLC",
+    "po_number": "PO-2024-0037",
+    "contract_id": "CON-017",
+    "invoice_date": "2025-01-25",
+    "due_date": "2025-02-27",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 19,
+        "unit": "units",
+        "unit_price": 281.23,
+        "line_total": 5343.37
+      }
+    ],
+    "subtotal": 5343.37,
+    "tax_rate": 0.1,
+    "tax_amount": 534.34,
+    "total_amount": 5877.71,
+    "currency": "USD",
+    "payment_date": "2025-03-09",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Chris Robinson"
+  },
+  {
+    "invoice_number": "INV-2025-00059",
+    "vendor_id": "VND-002",
+    "vendor_name": "Stanley LLC",
+    "po_number": "PO-2024-0026",
+    "contract_id": "CON-002",
+    "invoice_date": "2025-10-05",
+    "due_date": "2025-11-12",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Preventive maintenance \u2014 August",
+        "category": "maintenance",
+        "quantity": 11,
+        "unit": "units",
+        "unit_price": 272.39,
+        "line_total": 2996.29
+      },
+      {
+        "line_number": 2,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 27,
+        "unit": "hours",
+        "unit_price": 55.06,
+        "line_total": 1486.62
+      },
+      {
+        "line_number": 3,
+        "description": "Software patch management",
+        "category": "maintenance",
+        "quantity": 24,
+        "unit": "days",
+        "unit_price": 83.6,
+        "line_total": 2006.4
+      },
+      {
+        "line_number": 4,
+        "description": "Preventive maintenance \u2014 November",
+        "category": "maintenance",
+        "quantity": 15,
+        "unit": "units",
+        "unit_price": 72.32,
+        "line_total": 1084.8
+      }
+    ],
+    "subtotal": 7574.11,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 7574.11,
+    "currency": "USD",
+    "payment_date": "2025-11-20",
+    "rejection_reasons": [],
+    "notes": "In admit reveal movie expert maybe recently.",
+    "submitted_by": "Todd White"
+  },
+  {
+    "invoice_number": "INV-2025-00060",
+    "vendor_id": "VND-017",
+    "vendor_name": "Sheppard LLC",
+    "po_number": "PO-2024-0037",
+    "contract_id": "CON-017",
+    "invoice_date": "2025-02-10",
+    "due_date": "2025-03-16",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 7,
+        "unit": "units",
+        "unit_price": 268.8,
+        "line_total": 1881.6
+      },
+      {
+        "line_number": 2,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 9,
+        "unit": "days",
+        "unit_price": 226.16,
+        "line_total": 2035.44
+      }
+    ],
+    "subtotal": 3917.04,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 3917.04,
+    "currency": "USD",
+    "payment_date": "2025-03-19",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Dawn Gomez"
+  },
+  {
+    "invoice_number": "INV-2024-00061",
+    "vendor_id": "VND-006",
+    "vendor_name": "Martin Inc",
+    "po_number": null,
+    "contract_id": "CON-006",
+    "invoice_date": "2024-11-30",
+    "due_date": "2025-01-17",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 27,
+        "unit": "hours",
+        "unit_price": 136.06,
+        "line_total": 3673.62
+      },
+      {
+        "line_number": 2,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 19,
+        "unit": "units",
+        "unit_price": 90.73,
+        "line_total": 1723.87
+      },
+      {
+        "line_number": 3,
+        "description": "End-user training \u2014 Financial dept",
+        "category": "training",
+        "quantity": 17,
+        "unit": "days",
+        "unit_price": 212.9,
+        "line_total": 3619.3
+      }
+    ],
+    "subtotal": 9016.79,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 9016.79,
+    "currency": "USD",
+    "payment_date": "2025-01-20",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Courtney Sutton DVM"
+  },
+  {
+    "invoice_number": "INV-2025-00062",
+    "vendor_id": "VND-010",
+    "vendor_name": "Lam-Lee",
+    "po_number": "PO-2024-0042",
+    "contract_id": "CON-010",
+    "invoice_date": "2025-06-22",
+    "due_date": "2025-08-04",
+    "status": "rejected",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "IT consulting \u2014 Phase 1",
+        "category": "consulting",
+        "quantity": 10,
+        "unit": "days",
+        "unit_price": 157.54,
+        "line_total": 1575.4
+      },
+      {
+        "line_number": 2,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 27,
+        "unit": "hours",
+        "unit_price": 218.97,
+        "line_total": 5912.19
+      },
+      {
+        "line_number": 3,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 9,
+        "unit": "hours",
+        "unit_price": 157.54,
+        "line_total": 1417.86
+      }
+    ],
+    "subtotal": 8905.45,
+    "tax_rate": 0.05,
+    "tax_amount": 445.27,
+    "total_amount": 9350.72,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Tax calculation error"
+    ],
+    "notes": "",
+    "submitted_by": "Adam Jackson"
+  },
+  {
+    "invoice_number": "INV-2024-00063",
+    "vendor_id": "VND-001",
+    "vendor_name": "Rodriguez, Figueroa and Sanchez",
+    "po_number": null,
+    "contract_id": "CON-001",
+    "invoice_date": "2024-11-06",
+    "due_date": "2024-12-15",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 13,
+        "unit": "units",
+        "unit_price": 75.22,
+        "line_total": 977.86
+      },
+      {
+        "line_number": 2,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 24,
+        "unit": "units",
+        "unit_price": 75.22,
+        "line_total": 1805.28
+      },
+      {
+        "line_number": 3,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 28,
+        "unit": "hours",
+        "unit_price": 75.22,
+        "line_total": 2106.16
+      },
+      {
+        "line_number": 4,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 24,
+        "unit": "hours",
+        "unit_price": 75.22,
+        "line_total": 1805.28
+      }
+    ],
+    "subtotal": 6694.58,
+    "tax_rate": 0.08,
+    "tax_amount": 535.57,
+    "total_amount": 7230.15,
+    "currency": "USD",
+    "payment_date": "2024-12-18",
+    "rejection_reasons": [],
+    "notes": "Deep test thought little another.",
+    "submitted_by": "Timothy Lam"
+  },
+  {
+    "invoice_number": "INV-2025-00064",
+    "vendor_id": "VND-011",
+    "vendor_name": "Robertson-Schultz",
+    "po_number": "PO-2024-0020",
+    "contract_id": "CON-011",
+    "invoice_date": "2025-03-15",
+    "due_date": "2025-04-22",
+    "status": "paid",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 21,
+        "unit": "hours",
+        "unit_price": 63.42,
+        "line_total": 1331.82
+      },
+      {
+        "line_number": 2,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 13,
+        "unit": "hours",
+        "unit_price": 266.87,
+        "line_total": 3469.31
+      },
+      {
+        "line_number": 3,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 11,
+        "unit": "hours",
+        "unit_price": 298.09,
+        "line_total": 3278.99
+      },
+      {
+        "line_number": 4,
+        "description": "Custom module development",
+        "category": "development",
+        "quantity": 21,
+        "unit": "units",
+        "unit_price": 171.9,
+        "line_total": 3609.9
+      }
+    ],
+    "subtotal": 11690.02,
+    "tax_rate": 0.08,
+    "tax_amount": 935.2,
+    "total_amount": 12625.22,
+    "currency": "USD",
+    "payment_date": "2025-04-25",
+    "rejection_reasons": [],
+    "notes": "Federal nor note support.",
+    "submitted_by": "Kimberly Reyes"
+  },
+  {
+    "invoice_number": "INV-2024-00065",
+    "vendor_id": "VND-006",
+    "vendor_name": "Martin Inc",
+    "po_number": null,
+    "contract_id": "CON-006",
+    "invoice_date": "2024-11-14",
+    "due_date": "2025-01-08",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 20,
+        "unit": "units",
+        "unit_price": 148.4,
+        "line_total": 2968.0
+      },
+      {
+        "line_number": 2,
+        "description": "Strategic consulting \u2014 Q2 2025",
+        "category": "consulting",
+        "quantity": 1,
+        "unit": "units",
+        "unit_price": 148.4,
+        "line_total": 148.4
+      }
+    ],
+    "subtotal": 3116.4,
+    "tax_rate": 0.05,
+    "tax_amount": 155.82,
+    "total_amount": 3272.22,
+    "currency": "USD",
+    "payment_date": "2025-01-08",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Jeffrey Roberson"
+  },
+  {
+    "invoice_number": "INV-2025-00066",
+    "vendor_id": "VND-008",
+    "vendor_name": "King-Odonnell",
+    "po_number": "PO-2024-0030",
+    "contract_id": "CON-008",
+    "invoice_date": "2025-08-11",
+    "due_date": "2025-10-02",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 19,
+        "unit": "units",
+        "unit_price": 145.89,
+        "line_total": 2771.91
+      }
+    ],
+    "subtotal": 2771.91,
+    "tax_rate": 0.1,
+    "tax_amount": 277.19,
+    "total_amount": 3049.1,
+    "currency": "USD",
+    "payment_date": "2025-10-10",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Jennifer Ayala"
+  },
+  {
+    "invoice_number": "INV-2025-00067",
+    "vendor_id": "VND-005",
+    "vendor_name": "Ryan Ltd",
+    "po_number": "PO-2024-0043",
+    "contract_id": "CON-005",
+    "invoice_date": "2025-04-14",
+    "due_date": "2025-06-11",
+    "status": "paid",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Custom module development",
+        "category": "development",
+        "quantity": 1,
+        "unit": "days",
+        "unit_price": 195.35,
+        "line_total": 195.35
+      },
+      {
+        "line_number": 2,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 1,
+        "unit": "units",
+        "unit_price": 195.35,
+        "line_total": 195.35
+      },
+      {
+        "line_number": 3,
+        "description": "API integration development",
+        "category": "development",
+        "quantity": 29,
+        "unit": "days",
+        "unit_price": 195.35,
+        "line_total": 5665.15
+      },
+      {
+        "line_number": 4,
+        "description": "Software development \u2014 Sprint 14",
+        "category": "development",
+        "quantity": 27,
+        "unit": "units",
+        "unit_price": 195.35,
+        "line_total": 5274.45
+      }
+    ],
+    "subtotal": 11330.3,
+    "tax_rate": 0.1,
+    "tax_amount": 1133.03,
+    "total_amount": 12463.33,
+    "currency": "USD",
+    "payment_date": "2025-06-12",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Michael Guerrero"
+  },
+  {
+    "invoice_number": "INV-2025-00068",
+    "vendor_id": "VND-005",
+    "vendor_name": "Ryan Ltd",
+    "po_number": "PO-2024-0043",
+    "contract_id": "CON-005",
+    "invoice_date": "2025-09-01",
+    "due_date": "2025-10-23",
+    "status": "paid",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Software development \u2014 Sprint 5",
+        "category": "development",
+        "quantity": 22,
+        "unit": "units",
+        "unit_price": 195.35,
+        "line_total": 4297.7
+      },
+      {
+        "line_number": 2,
+        "description": "Software development \u2014 Sprint 4",
+        "category": "development",
+        "quantity": 27,
+        "unit": "units",
+        "unit_price": 195.35,
+        "line_total": 5274.45
+      },
+      {
+        "line_number": 3,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 7,
+        "unit": "units",
+        "unit_price": 195.35,
+        "line_total": 1367.45
+      },
+      {
+        "line_number": 4,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 23,
+        "unit": "units",
+        "unit_price": 195.35,
+        "line_total": 4493.05
+      }
+    ],
+    "subtotal": 15432.65,
+    "tax_rate": 0.05,
+    "tax_amount": 771.63,
+    "total_amount": 16204.28,
+    "currency": "USD",
+    "payment_date": "2025-10-30",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Madison Singh"
+  },
+  {
+    "invoice_number": "INV-2025-00069",
+    "vendor_id": "VND-003",
+    "vendor_name": "Hurst-Ross",
+    "po_number": "PO-2024-0031",
+    "contract_id": "CON-003",
+    "invoice_date": "2025-12-07",
+    "due_date": "2026-02-01",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Annual maintenance contract",
+        "category": "maintenance",
+        "quantity": 3,
+        "unit": "units",
+        "unit_price": 244.88,
+        "line_total": 734.64
+      }
+    ],
+    "subtotal": 734.64,
+    "tax_rate": 0.08,
+    "tax_amount": 58.77,
+    "total_amount": 793.41,
+    "currency": "USD",
+    "payment_date": "2026-02-08",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Tommy Wallace"
+  },
+  {
+    "invoice_number": "INV-2025-00070",
+    "vendor_id": "VND-002",
+    "vendor_name": "Stanley LLC",
+    "po_number": "PO-2024-0026",
+    "contract_id": "CON-002",
+    "invoice_date": "2025-06-06",
+    "due_date": "2025-07-17",
+    "status": "rejected",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Annual maintenance contract",
+        "category": "maintenance",
+        "quantity": 25,
+        "unit": "units",
+        "unit_price": 73.75,
+        "line_total": 1843.75
+      }
+    ],
+    "subtotal": 1843.75,
+    "tax_rate": 0.1,
+    "tax_amount": 184.38,
+    "total_amount": 2028.13,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "PO number not found or closed",
+      "Duplicate invoice submission"
+    ],
+    "notes": "Beautiful issue news mention.",
+    "submitted_by": "Brandon Spencer"
+  },
+  {
+    "invoice_number": "INV-2025-00071",
+    "vendor_id": "VND-013",
+    "vendor_name": "Robinson-Graham",
+    "po_number": "PO-2024-0017",
+    "contract_id": "CON-013",
+    "invoice_date": "2025-02-14",
+    "due_date": "2025-04-15",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 21,
+        "unit": "hours",
+        "unit_price": 249.97,
+        "line_total": 5249.37
+      },
+      {
+        "line_number": 2,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 19,
+        "unit": "units",
+        "unit_price": 154.01,
+        "line_total": 2926.19
+      },
+      {
+        "line_number": 3,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 28,
+        "unit": "units",
+        "unit_price": 202.84,
+        "line_total": 5679.52
+      },
+      {
+        "line_number": 4,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 9,
+        "unit": "days",
+        "unit_price": 61.49,
+        "line_total": 553.41
+      }
+    ],
+    "subtotal": 14408.49,
+    "tax_rate": 0.05,
+    "tax_amount": 720.42,
+    "total_amount": 15128.91,
+    "currency": "USD",
+    "payment_date": "2025-04-25",
+    "rejection_reasons": [],
+    "notes": "Occur college herself catch feeling.",
+    "submitted_by": "Arthur Hamilton MD"
+  },
+  {
+    "invoice_number": "INV-2025-00072",
+    "vendor_id": "VND-020",
+    "vendor_name": "Johnson Ltd",
+    "po_number": "PO-2024-0015",
+    "contract_id": "CON-020",
+    "invoice_date": "2025-12-23",
+    "due_date": "2026-02-04",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 21,
+        "unit": "hours",
+        "unit_price": 215.93,
+        "line_total": 4534.53
+      },
+      {
+        "line_number": 2,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 6,
+        "unit": "units",
+        "unit_price": 210.85,
+        "line_total": 1265.1
+      },
+      {
+        "line_number": 3,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 11,
+        "unit": "days",
+        "unit_price": 130.16,
+        "line_total": 1431.76
+      }
+    ],
+    "subtotal": 7231.39,
+    "tax_rate": 0.1,
+    "tax_amount": 723.14,
+    "total_amount": 7954.53,
+    "currency": "USD",
+    "payment_date": "2026-02-10",
+    "rejection_reasons": [],
+    "notes": "Pattern leader career according how success here television.",
+    "submitted_by": "Jeffrey Colon"
+  },
+  {
+    "invoice_number": "INV-2024-00073",
+    "vendor_id": "VND-015",
+    "vendor_name": "Nelson, Morton and Medina",
+    "po_number": "PO-2024-0041",
+    "contract_id": "CON-015",
+    "invoice_date": "2024-12-27",
+    "due_date": "2025-01-28",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Freight & shipping \u2014 August",
+        "category": "logistics",
+        "quantity": 24,
+        "unit": "days",
+        "unit_price": 295.17,
+        "line_total": 7084.08
+      }
+    ],
+    "subtotal": 7084.08,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 7084.08,
+    "currency": "USD",
+    "payment_date": "2025-01-29",
+    "rejection_reasons": [],
+    "notes": "Feel owner receive look.",
+    "submitted_by": "James Flores"
+  },
+  {
+    "invoice_number": "INV-2024-00074",
+    "vendor_id": "VND-010",
+    "vendor_name": "Lam-Lee",
+    "po_number": null,
+    "contract_id": "CON-010",
+    "invoice_date": "2024-10-26",
+    "due_date": "2024-12-12",
+    "status": "rejected",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Freight & shipping \u2014 May",
+        "category": "logistics",
+        "quantity": 12,
+        "unit": "days",
+        "unit_price": 287.59,
+        "line_total": 3451.08
+      },
+      {
+        "line_number": 2,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 23,
+        "unit": "hours",
+        "unit_price": 199.99,
+        "line_total": 4599.77
+      },
+      {
+        "line_number": 3,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 27,
+        "unit": "hours",
+        "unit_price": 135.34,
+        "line_total": 3654.18
+      },
+      {
+        "line_number": 4,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 27,
+        "unit": "hours",
+        "unit_price": 173.11,
+        "line_total": 4673.97
+      }
+    ],
+    "subtotal": 16379.0,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 16379.0,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Missing supporting documentation",
+      "Vendor not approved for this service category"
+    ],
+    "notes": "Box nor or nation race nearly.",
+    "submitted_by": "Julia Erickson"
+  },
+  {
+    "invoice_number": "INV-2025-00075",
+    "vendor_id": "VND-011",
+    "vendor_name": "Robertson-Schultz",
+    "po_number": "PO-2024-0018",
+    "contract_id": "CON-011",
+    "invoice_date": "2025-12-10",
+    "due_date": "2026-02-02",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 17,
+        "unit": "days",
+        "unit_price": 214.61,
+        "line_total": 3648.37
+      },
+      {
+        "line_number": 2,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 27,
+        "unit": "hours",
+        "unit_price": 283.83,
+        "line_total": 7663.41
+      },
+      {
+        "line_number": 3,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 5,
+        "unit": "units",
+        "unit_price": 232.62,
+        "line_total": 1163.1
+      },
+      {
+        "line_number": 4,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 13,
+        "unit": "units",
+        "unit_price": 176.03,
+        "line_total": 2288.39
+      }
+    ],
+    "subtotal": 14763.27,
+    "tax_rate": 0.1,
+    "tax_amount": 1476.33,
+    "total_amount": 16239.6,
+    "currency": "USD",
+    "payment_date": "2026-02-04",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Dana Hopkins"
+  },
+  {
+    "invoice_number": "INV-2025-00076",
+    "vendor_id": "VND-017",
+    "vendor_name": "Sheppard LLC",
+    "po_number": "PO-2024-0037",
+    "contract_id": "CON-017",
+    "invoice_date": "2025-05-28",
+    "due_date": "2025-07-23",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 20,
+        "unit": "days",
+        "unit_price": 100.22,
+        "line_total": 2004.4
+      },
+      {
+        "line_number": 2,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 21,
+        "unit": "days",
+        "unit_price": 185.62,
+        "line_total": 3898.02
+      }
+    ],
+    "subtotal": 5902.42,
+    "tax_rate": 0.1,
+    "tax_amount": 590.24,
+    "total_amount": 6492.66,
+    "currency": "USD",
+    "payment_date": "2025-08-02",
+    "rejection_reasons": [],
+    "notes": "Old move type thank industry already why.",
+    "submitted_by": "Robin Wheeler"
+  },
+  {
+    "invoice_number": "INV-2025-00077",
+    "vendor_id": "VND-010",
+    "vendor_name": "Lam-Lee",
+    "po_number": null,
+    "contract_id": "CON-010",
+    "invoice_date": "2025-01-22",
+    "due_date": "2025-03-18",
+    "status": "rejected",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Strategic consulting \u2014 Q2 2024",
+        "category": "consulting",
+        "quantity": 2,
+        "unit": "days",
+        "unit_price": 157.54,
+        "line_total": 315.08
+      }
+    ],
+    "subtotal": 315.08,
+    "tax_rate": 0.08,
+    "tax_amount": 25.21,
+    "total_amount": 340.29,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Unit price exceeds contracted rate"
+    ],
+    "notes": "",
+    "submitted_by": "Mary Kelly"
+  },
+  {
+    "invoice_number": "INV-2026-00078",
+    "vendor_id": "VND-018",
+    "vendor_name": "Hayes-Wheeler",
+    "po_number": "PO-2024-0009",
+    "contract_id": "CON-018",
+    "invoice_date": "2026-02-25",
+    "due_date": "2026-04-07",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 24,
+        "unit": "days",
+        "unit_price": 53.03,
+        "line_total": 1272.72
+      },
+      {
+        "line_number": 2,
+        "description": "Freight & shipping \u2014 September",
+        "category": "logistics",
+        "quantity": 22,
+        "unit": "days",
+        "unit_price": 53.03,
+        "line_total": 1166.66
+      }
+    ],
+    "subtotal": 2439.38,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 2439.38,
+    "currency": "USD",
+    "payment_date": "2026-04-07",
+    "rejection_reasons": [],
+    "notes": "Whole involve action else member million.",
+    "submitted_by": "Laura Griffin"
+  },
+  {
+    "invoice_number": "INV-2025-00079",
+    "vendor_id": "VND-015",
+    "vendor_name": "Nelson, Morton and Medina",
+    "po_number": "PO-2024-0041",
+    "contract_id": "CON-015",
+    "invoice_date": "2025-08-12",
+    "due_date": "2025-10-10",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 7,
+        "unit": "hours",
+        "unit_price": 244.04,
+        "line_total": 1708.28
+      },
+      {
+        "line_number": 2,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 4,
+        "unit": "units",
+        "unit_price": 233.77,
+        "line_total": 935.08
+      }
+    ],
+    "subtotal": 2643.36,
+    "tax_rate": 0.05,
+    "tax_amount": 132.17,
+    "total_amount": 2775.53,
+    "currency": "USD",
+    "payment_date": "2025-10-12",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Alexander Garcia"
+  },
+  {
+    "invoice_number": "INV-2024-00080",
+    "vendor_id": "VND-011",
+    "vendor_name": "Robertson-Schultz",
+    "po_number": "PO-2024-0018",
+    "contract_id": "CON-011",
+    "invoice_date": "2024-12-08",
+    "due_date": "2025-01-29",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 25,
+        "unit": "units",
+        "unit_price": 199.22,
+        "line_total": 4980.5
+      },
+      {
+        "line_number": 2,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 23,
+        "unit": "days",
+        "unit_price": 68.22,
+        "line_total": 1569.06
+      },
+      {
+        "line_number": 3,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 18,
+        "unit": "hours",
+        "unit_price": 89.84,
+        "line_total": 1617.12
+      }
+    ],
+    "subtotal": 8166.68,
+    "tax_rate": 0.08,
+    "tax_amount": 653.33,
+    "total_amount": 8820.01,
+    "currency": "USD",
+    "payment_date": "2025-02-03",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Daniel Webb"
+  },
+  {
+    "invoice_number": "INV-2024-00081",
+    "vendor_id": "VND-020",
+    "vendor_name": "Johnson Ltd",
+    "po_number": "PO-2024-0012",
+    "contract_id": "CON-020",
+    "invoice_date": "2024-11-29",
+    "due_date": "2025-01-15",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 29,
+        "unit": "hours",
+        "unit_price": 161.42,
+        "line_total": 4681.18
+      },
+      {
+        "line_number": 2,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 18,
+        "unit": "days",
+        "unit_price": 146.47,
+        "line_total": 2636.46
+      },
+      {
+        "line_number": 3,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 2,
+        "unit": "hours",
+        "unit_price": 161.39,
+        "line_total": 322.78
+      }
+    ],
+    "subtotal": 7640.42,
+    "tax_rate": 0.05,
+    "tax_amount": 382.02,
+    "total_amount": 8022.44,
+    "currency": "USD",
+    "payment_date": "2025-01-23",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Michael Johnson"
+  },
+  {
+    "invoice_number": "INV-2025-00082",
+    "vendor_id": "VND-007",
+    "vendor_name": "Hickman-Walls",
+    "po_number": "PO-2024-0006",
+    "contract_id": "CON-007",
+    "invoice_date": "2025-08-24",
+    "due_date": "2025-10-20",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "End-user training \u2014 Clinical dept",
+        "category": "training",
+        "quantity": 21,
+        "unit": "hours",
+        "unit_price": 112.99,
+        "line_total": 2372.79
+      },
+      {
+        "line_number": 2,
+        "description": "End-user training \u2014 Development dept",
+        "category": "training",
+        "quantity": 3,
+        "unit": "hours",
+        "unit_price": 112.99,
+        "line_total": 338.97
+      },
+      {
+        "line_number": 3,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 19,
+        "unit": "days",
+        "unit_price": 112.99,
+        "line_total": 2146.81
+      },
+      {
+        "line_number": 4,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 13,
+        "unit": "days",
+        "unit_price": 112.99,
+        "line_total": 1468.87
+      }
+    ],
+    "subtotal": 6327.44,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 6327.44,
+    "currency": "USD",
+    "payment_date": "2025-10-30",
+    "rejection_reasons": [],
+    "notes": "Former interview left something.",
+    "submitted_by": "Charlotte Sandoval"
+  },
+  {
+    "invoice_number": "INV-2026-00083",
+    "vendor_id": "VND-019",
+    "vendor_name": "Underwood, Johnston and Hines",
+    "po_number": "PO-2024-0008",
+    "contract_id": "CON-019",
+    "invoice_date": "2026-02-12",
+    "due_date": "2026-04-05",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 10,
+        "unit": "units",
+        "unit_price": 109.97,
+        "line_total": 1099.7
+      }
+    ],
+    "subtotal": 1099.7,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 1099.7,
+    "currency": "USD",
+    "payment_date": "2026-04-12",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Joanna Jordan"
+  },
+  {
+    "invoice_number": "INV-2025-00084",
+    "vendor_id": "VND-013",
+    "vendor_name": "Robinson-Graham",
+    "po_number": "PO-2024-0017",
+    "contract_id": "CON-013",
+    "invoice_date": "2025-06-01",
+    "due_date": "2025-07-31",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 1,
+        "unit": "days",
+        "unit_price": 289.35,
+        "line_total": 289.35
+      },
+      {
+        "line_number": 2,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 18,
+        "unit": "hours",
+        "unit_price": 199.16,
+        "line_total": 3584.88
+      },
+      {
+        "line_number": 3,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 21,
+        "unit": "days",
+        "unit_price": 153.16,
+        "line_total": 3216.36
+      }
+    ],
+    "subtotal": 7090.59,
+    "tax_rate": 0.08,
+    "tax_amount": 567.25,
+    "total_amount": 7657.84,
+    "currency": "USD",
+    "payment_date": "2025-08-03",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Gabriel Ellis"
+  },
+  {
+    "invoice_number": "INV-2026-00085",
+    "vendor_id": "VND-019",
+    "vendor_name": "Underwood, Johnston and Hines",
+    "po_number": "PO-2024-0008",
+    "contract_id": "CON-019",
+    "invoice_date": "2026-02-03",
+    "due_date": "2026-04-01",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "End-user training \u2014 Recruitment dept",
+        "category": "training",
+        "quantity": 10,
+        "unit": "units",
+        "unit_price": 109.97,
+        "line_total": 1099.7
+      }
+    ],
+    "subtotal": 1099.7,
+    "tax_rate": 0.08,
+    "tax_amount": 87.98,
+    "total_amount": 1187.68,
+    "currency": "USD",
+    "payment_date": "2026-04-06",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Margaret Harper"
+  },
+  {
+    "invoice_number": "INV-2025-00086",
+    "vendor_id": "VND-004",
+    "vendor_name": "Nguyen, Smith and Hickman",
+    "po_number": null,
+    "contract_id": "CON-004",
+    "invoice_date": "2025-06-12",
+    "due_date": "2025-07-31",
+    "status": "paid",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 11,
+        "unit": "days",
+        "unit_price": 171.47,
+        "line_total": 1886.17
+      },
+      {
+        "line_number": 2,
+        "description": "API integration development",
+        "category": "development",
+        "quantity": 26,
+        "unit": "hours",
+        "unit_price": 191.72,
+        "line_total": 4984.72
+      },
+      {
+        "line_number": 3,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 23,
+        "unit": "units",
+        "unit_price": 246.42,
+        "line_total": 5667.66
+      }
+    ],
+    "subtotal": 12538.55,
+    "tax_rate": 0.1,
+    "tax_amount": 1253.86,
+    "total_amount": 13792.41,
+    "currency": "USD",
+    "payment_date": "2025-08-07",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Michael Mcbride"
+  },
+  {
+    "invoice_number": "INV-2025-00087",
+    "vendor_id": "VND-018",
+    "vendor_name": "Hayes-Wheeler",
+    "po_number": "PO-2024-0009",
+    "contract_id": "CON-018",
+    "invoice_date": "2025-12-09",
+    "due_date": "2026-01-13",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 29,
+        "unit": "hours",
+        "unit_price": 53.03,
+        "line_total": 1537.87
+      },
+      {
+        "line_number": 2,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 28,
+        "unit": "days",
+        "unit_price": 53.03,
+        "line_total": 1484.84
+      }
+    ],
+    "subtotal": 3022.71,
+    "tax_rate": 0.05,
+    "tax_amount": 151.14,
+    "total_amount": 3173.85,
+    "currency": "USD",
+    "payment_date": "2026-01-13",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "David Wilson"
+  },
+  {
+    "invoice_number": "INV-2024-00088",
+    "vendor_id": "VND-018",
+    "vendor_name": "Hayes-Wheeler",
+    "po_number": "PO-2024-0011",
+    "contract_id": "CON-018",
+    "invoice_date": "2024-12-02",
+    "due_date": "2025-01-21",
+    "status": "paid",
+    "category": "consulting",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "IT consulting \u2014 Phase 4",
+        "category": "consulting",
+        "quantity": 29,
+        "unit": "days",
+        "unit_price": 141.54,
+        "line_total": 4104.66
+      },
+      {
+        "line_number": 2,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 3,
+        "unit": "days",
+        "unit_price": 141.54,
+        "line_total": 424.62
+      }
+    ],
+    "subtotal": 4529.28,
+    "tax_rate": 0.05,
+    "tax_amount": 226.46,
+    "total_amount": 4755.74,
+    "currency": "USD",
+    "payment_date": "2025-01-29",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Laura Henderson"
+  },
+  {
+    "invoice_number": "INV-2025-00089",
+    "vendor_id": "VND-019",
+    "vendor_name": "Underwood, Johnston and Hines",
+    "po_number": "PO-2024-0008",
+    "contract_id": "CON-019",
+    "invoice_date": "2025-11-01",
+    "due_date": "2025-12-24",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 25,
+        "unit": "hours",
+        "unit_price": 109.97,
+        "line_total": 2749.25
+      },
+      {
+        "line_number": 2,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 2,
+        "unit": "hours",
+        "unit_price": 109.97,
+        "line_total": 219.94
+      }
+    ],
+    "subtotal": 2969.19,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 2969.19,
+    "currency": "USD",
+    "payment_date": "2026-01-03",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Katherine Taylor"
+  },
+  {
+    "invoice_number": "INV-2025-00090",
+    "vendor_id": "VND-017",
+    "vendor_name": "Sheppard LLC",
+    "po_number": "PO-2024-0037",
+    "contract_id": "CON-017",
+    "invoice_date": "2025-06-23",
+    "due_date": "2025-08-18",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 21,
+        "unit": "units",
+        "unit_price": 141.32,
+        "line_total": 2967.72
+      },
+      {
+        "line_number": 2,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 28,
+        "unit": "days",
+        "unit_price": 138.22,
+        "line_total": 3870.16
+      },
+      {
+        "line_number": 3,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 15,
+        "unit": "hours",
+        "unit_price": 270.51,
+        "line_total": 4057.65
+      },
+      {
+        "line_number": 4,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 6,
+        "unit": "units",
+        "unit_price": 87.56,
+        "line_total": 525.36
+      }
+    ],
+    "subtotal": 11420.89,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 11420.89,
+    "currency": "USD",
+    "payment_date": "2025-08-25",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Kathy Simpson"
+  },
+  {
+    "invoice_number": "INV-2025-00091",
+    "vendor_id": "VND-019",
+    "vendor_name": "Underwood, Johnston and Hines",
+    "po_number": "PO-2024-0008",
+    "contract_id": "CON-019",
+    "invoice_date": "2025-10-16",
+    "due_date": "2025-12-05",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 5,
+        "unit": "days",
+        "unit_price": 109.97,
+        "line_total": 549.85
+      }
+    ],
+    "subtotal": 549.85,
+    "tax_rate": 0.05,
+    "tax_amount": 27.49,
+    "total_amount": 577.34,
+    "currency": "USD",
+    "payment_date": "2025-12-05",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Jill Jackson"
+  },
+  {
+    "invoice_number": "INV-2025-00092",
+    "vendor_id": "VND-017",
+    "vendor_name": "Sheppard LLC",
+    "po_number": "PO-2024-0037",
+    "contract_id": "CON-017",
+    "invoice_date": "2025-02-08",
+    "due_date": "2025-03-29",
+    "status": "rejected",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 7,
+        "unit": "units",
+        "unit_price": 286.81,
+        "line_total": 2007.67
+      },
+      {
+        "line_number": 2,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 26,
+        "unit": "hours",
+        "unit_price": 200.21,
+        "line_total": 5205.46
+      },
+      {
+        "line_number": 3,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 11,
+        "unit": "hours",
+        "unit_price": 231.05,
+        "line_total": 2541.55
+      }
+    ],
+    "subtotal": 9754.68,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 9754.68,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Missing supporting documentation"
+    ],
+    "notes": "",
+    "submitted_by": "Jim Newton"
+  },
+  {
+    "invoice_number": "INV-2025-00093",
+    "vendor_id": "VND-014",
+    "vendor_name": "Allen Group",
+    "po_number": null,
+    "contract_id": "CON-014",
+    "invoice_date": "2025-10-28",
+    "due_date": "2025-12-16",
+    "status": "rejected",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 18,
+        "unit": "days",
+        "unit_price": 269.44,
+        "line_total": 4849.92
+      }
+    ],
+    "subtotal": 4849.92,
+    "tax_rate": 0.0,
+    "tax_amount": 0.0,
+    "total_amount": 4849.92,
+    "currency": "USD",
+    "payment_date": null,
+    "rejection_reasons": [
+      "Tax calculation error",
+      "Duplicate invoice submission"
+    ],
+    "notes": "Both box simple statement happen state among.",
+    "submitted_by": "Kimberly Fritz"
+  },
+  {
+    "invoice_number": "INV-2025-00094",
+    "vendor_id": "VND-014",
+    "vendor_name": "Allen Group",
+    "po_number": "PO-2024-0035",
+    "contract_id": "CON-014",
+    "invoice_date": "2025-08-08",
+    "due_date": "2025-10-07",
+    "status": "paid",
+    "category": "support",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 14,
+        "unit": "units",
+        "unit_price": 77.75,
+        "line_total": 1088.5
+      }
+    ],
+    "subtotal": 1088.5,
+    "tax_rate": 0.1,
+    "tax_amount": 108.85,
+    "total_amount": 1197.35,
+    "currency": "USD",
+    "payment_date": "2025-10-11",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Zachary Cole"
+  },
+  {
+    "invoice_number": "INV-2024-00095",
+    "vendor_id": "VND-001",
+    "vendor_name": "Rodriguez, Figueroa and Sanchez",
+    "po_number": null,
+    "contract_id": "CON-001",
+    "invoice_date": "2024-10-11",
+    "due_date": "2024-11-13",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 7,
+        "unit": "units",
+        "unit_price": 143.76,
+        "line_total": 1006.32
+      }
+    ],
+    "subtotal": 1006.32,
+    "tax_rate": 0.08,
+    "tax_amount": 80.51,
+    "total_amount": 1086.83,
+    "currency": "USD",
+    "payment_date": "2024-11-17",
+    "rejection_reasons": [],
+    "notes": "Tend bring speech decide scene ready.",
+    "submitted_by": "Lisa Patterson"
+  },
+  {
+    "invoice_number": "INV-2025-00096",
+    "vendor_id": "VND-012",
+    "vendor_name": "Larsen LLC",
+    "po_number": "PO-2024-0033",
+    "contract_id": "CON-012",
+    "invoice_date": "2025-06-21",
+    "due_date": "2025-08-11",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 6,
+        "unit": "units",
+        "unit_price": 107.42,
+        "line_total": 644.52
+      },
+      {
+        "line_number": 2,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 25,
+        "unit": "units",
+        "unit_price": 107.42,
+        "line_total": 2685.5
+      },
+      {
+        "line_number": 3,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 26,
+        "unit": "units",
+        "unit_price": 107.42,
+        "line_total": 2792.92
+      },
+      {
+        "line_number": 4,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 26,
+        "unit": "hours",
+        "unit_price": 107.42,
+        "line_total": 2792.92
+      }
+    ],
+    "subtotal": 8915.86,
+    "tax_rate": 0.05,
+    "tax_amount": 445.79,
+    "total_amount": 9361.65,
+    "currency": "USD",
+    "payment_date": "2025-08-18",
+    "rejection_reasons": [],
+    "notes": "Food region eye environment.",
+    "submitted_by": "Victoria Shelton"
+  },
+  {
+    "invoice_number": "INV-2025-00097",
+    "vendor_id": "VND-003",
+    "vendor_name": "Hurst-Ross",
+    "po_number": "PO-2024-0038",
+    "contract_id": "CON-003",
+    "invoice_date": "2025-07-04",
+    "due_date": "2025-08-10",
+    "status": "paid",
+    "category": "development",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 13,
+        "unit": "hours",
+        "unit_price": 282.67,
+        "line_total": 3674.71
+      },
+      {
+        "line_number": 2,
+        "description": "Software development \u2014 Sprint 10",
+        "category": "development",
+        "quantity": 15,
+        "unit": "hours",
+        "unit_price": 210.07,
+        "line_total": 3151.05
+      },
+      {
+        "line_number": 3,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 20,
+        "unit": "units",
+        "unit_price": 58.4,
+        "line_total": 1168.0
+      },
+      {
+        "line_number": 4,
+        "description": "Custom module development",
+        "category": "development",
+        "quantity": 1,
+        "unit": "days",
+        "unit_price": 109.81,
+        "line_total": 109.81
+      }
+    ],
+    "subtotal": 8103.57,
+    "tax_rate": 0.1,
+    "tax_amount": 810.36,
+    "total_amount": 8913.93,
+    "currency": "USD",
+    "payment_date": "2025-08-16",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Michael Poole"
+  },
+  {
+    "invoice_number": "INV-2025-00098",
+    "vendor_id": "VND-003",
+    "vendor_name": "Hurst-Ross",
+    "po_number": null,
+    "contract_id": "CON-003",
+    "invoice_date": "2025-12-28",
+    "due_date": "2026-02-13",
+    "status": "paid",
+    "category": "training",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 12,
+        "unit": "units",
+        "unit_price": 109.0,
+        "line_total": 1308.0
+      },
+      {
+        "line_number": 2,
+        "description": "End-user training \u2014 Technical dept",
+        "category": "training",
+        "quantity": 19,
+        "unit": "hours",
+        "unit_price": 109.0,
+        "line_total": 2071.0
+      },
+      {
+        "line_number": 3,
+        "description": "End-user training \u2014 Patent dept",
+        "category": "training",
+        "quantity": 18,
+        "unit": "units",
+        "unit_price": 109.0,
+        "line_total": 1962.0
+      }
+    ],
+    "subtotal": 5341.0,
+    "tax_rate": 0.08,
+    "tax_amount": 427.28,
+    "total_amount": 5768.28,
+    "currency": "USD",
+    "payment_date": "2026-02-20",
+    "rejection_reasons": [],
+    "notes": "Later plant they behavior middle everything.",
+    "submitted_by": "Jackie Clements"
+  },
+  {
+    "invoice_number": "INV-2025-00099",
+    "vendor_id": "VND-008",
+    "vendor_name": "King-Odonnell",
+    "po_number": "PO-2024-0046",
+    "contract_id": "CON-008",
+    "invoice_date": "2025-04-17",
+    "due_date": "2025-06-16",
+    "status": "paid",
+    "category": "maintenance",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Annual maintenance contract",
+        "category": "maintenance",
+        "quantity": 9,
+        "unit": "units",
+        "unit_price": 170.49,
+        "line_total": 1534.41
+      }
+    ],
+    "subtotal": 1534.41,
+    "tax_rate": 0.1,
+    "tax_amount": 153.44,
+    "total_amount": 1687.85,
+    "currency": "USD",
+    "payment_date": "2025-06-21",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Sarah Davis"
+  },
+  {
+    "invoice_number": "INV-2025-00100",
+    "vendor_id": "VND-009",
+    "vendor_name": "Johnson-Doyle",
+    "po_number": null,
+    "contract_id": "CON-009",
+    "invoice_date": "2025-07-19",
+    "due_date": "2025-08-27",
+    "status": "paid",
+    "category": "logistics",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 3,
+        "unit": "hours",
+        "unit_price": 70.47,
+        "line_total": 211.41
+      },
+      {
+        "line_number": 2,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 29,
+        "unit": "days",
+        "unit_price": 70.47,
+        "line_total": 2043.63
+      },
+      {
+        "line_number": 3,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 7,
+        "unit": "hours",
+        "unit_price": 70.47,
+        "line_total": 493.29
+      }
+    ],
+    "subtotal": 2748.33,
+    "tax_rate": 0.05,
+    "tax_amount": 137.42,
+    "total_amount": 2885.75,
+    "currency": "USD",
+    "payment_date": "2025-09-05",
+    "rejection_reasons": [],
+    "notes": "",
+    "submitted_by": "Kathleen Morris"
+  }
+]

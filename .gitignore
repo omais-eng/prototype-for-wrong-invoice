@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+# Environment
+.env
+*.env.local
+
+# Node / Next.js
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/.vercel
+*.tsbuildinfo
+
+# Database
+*.db
+*.sqlite
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Uploads
+backend/uploads/
+scripts/sample_invoices/
+
+# Mock ERP data (generated at runtime)
+mock-erp/data/*.json

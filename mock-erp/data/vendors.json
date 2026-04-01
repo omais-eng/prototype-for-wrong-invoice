@@ -1,0 +1,362 @@
+[
+  {
+    "vendor_id": "VND-001",
+    "name": "Rodriguez, Figueroa and Sanchez",
+    "email": "accounts@doyle.net",
+    "phone": "296-500-1338",
+    "address": {
+      "street": "79402 Peterson Drives Apt. 511",
+      "city": "Davisstad",
+      "state": "PA",
+      "zip": "35172",
+      "country": "US"
+    },
+    "contact_person": "Monica Herrera",
+    "tax_id": "EIN-61-8495931",
+    "payment_terms": "Net 30",
+    "status": "active",
+    "onboarded_date": "2026-02-07"
+  },
+  {
+    "vendor_id": "VND-002",
+    "name": "Stanley LLC",
+    "email": "accounts@wyatt.biz",
+    "phone": "575-425-5341x928",
+    "address": {
+      "street": "4835 Jeremy Bypass Suite 641",
+      "city": "New Nancy",
+      "state": "MD",
+      "zip": "28370",
+      "country": "US"
+    },
+    "contact_person": "Jennifer Rocha",
+    "tax_id": "EIN-72-4238849",
+    "payment_terms": "Net 60",
+    "status": "active",
+    "onboarded_date": "2024-11-14"
+  },
+  {
+    "vendor_id": "VND-003",
+    "name": "Hurst-Ross",
+    "email": "accounts@osborn.net",
+    "phone": "610.212.2691x6697",
+    "address": {
+      "street": "845 Kelly Estate",
+      "city": "Smithview",
+      "state": "NY",
+      "zip": "23917",
+      "country": "US"
+    },
+    "contact_person": "Ashley Garrett",
+    "tax_id": "EIN-89-3252880",
+    "payment_terms": "Net 45",
+    "status": "active",
+    "onboarded_date": "2025-06-18"
+  },
+  {
+    "vendor_id": "VND-004",
+    "name": "Nguyen, Smith and Hickman",
+    "email": "accounts@allen-allen.org",
+    "phone": "417-618-2278",
+    "address": {
+      "street": "83465 Lam Mission Apt. 331",
+      "city": "Andrewside",
+      "state": "IN",
+      "zip": "77629",
+      "country": "US"
+    },
+    "contact_person": "Benjamin Welch",
+    "tax_id": "EIN-31-0518347",
+    "payment_terms": "Net 30",
+    "status": "active",
+    "onboarded_date": "2022-06-14"
+  },
+  {
+    "vendor_id": "VND-005",
+    "name": "Ryan Ltd",
+    "email": "accounts@johnston.biz",
+    "phone": "311.265.6670",
+    "address": {
+      "street": "513 James Mission Apt. 624",
+      "city": "Wrightland",
+      "state": "NV",
+      "zip": "72633",
+      "country": "US"
+    },
+    "contact_person": "Matthew Fernandez",
+    "tax_id": "EIN-01-3267736",
+    "payment_terms": "Net 30",
+    "status": "active",
+    "onboarded_date": "2022-12-07"
+  },
+  {
+    "vendor_id": "VND-006",
+    "name": "Martin Inc",
+    "email": "accounts@baker-bowers.info",
+    "phone": "268-272-3430x9805",
+    "address": {
+      "street": "820 Melissa Cliff Apt. 361",
+      "city": "New Brooke",
+      "state": "RI",
+      "zip": "11246",
+      "country": "US"
+    },
+    "contact_person": "Kevin Mills",
+    "tax_id": "EIN-43-5346247",
+    "payment_terms": "Due on Receipt",
+    "status": "active",
+    "onboarded_date": "2026-01-24"
+  },
+  {
+    "vendor_id": "VND-007",
+    "name": "Hickman-Walls",
+    "email": "accounts@ellis.com",
+    "phone": "783-684-2513",
+    "address": {
+      "street": "8498 Elizabeth Plaza",
+      "city": "Sarahville",
+      "state": "FM",
+      "zip": "18102",
+      "country": "US"
+    },
+    "contact_person": "Steve Newton",
+    "tax_id": "EIN-24-4935348",
+    "payment_terms": "Net 30",
+    "status": "active",
+    "onboarded_date": "2025-09-20"
+  },
+  {
+    "vendor_id": "VND-008",
+    "name": "King-Odonnell",
+    "email": "accounts@davis.com",
+    "phone": "2053242786",
+    "address": {
+      "street": "280 Aguilar Drive",
+      "city": "Andersonport",
+      "state": "MN",
+      "zip": "05730",
+      "country": "US"
+    },
+    "contact_person": "Christine Wright",
+    "tax_id": "EIN-15-8692322",
+    "payment_terms": "Net 45",
+    "status": "active",
+    "onboarded_date": "2024-12-09"
+  },
+  {
+    "vendor_id": "VND-009",
+    "name": "Johnson-Doyle",
+    "email": "accounts@patton-jenkins.com",
+    "phone": "521-260-7337x543",
+    "address": {
+      "street": "5414 May Locks",
+      "city": "Sheilaville",
+      "state": "FM",
+      "zip": "34738",
+      "country": "US"
+    },
+    "contact_person": "Victor Baker",
+    "tax_id": "EIN-19-6556981",
+    "payment_terms": "Net 30",
+    "status": "active",
+    "onboarded_date": "2023-02-05"
+  },
+  {
+    "vendor_id": "VND-010",
+    "name": "Lam-Lee",
+    "email": "accounts@fletcher.net",
+    "phone": "+1-635-661-5951",
+    "address": {
+      "street": "6482 Robert Light Apt. 994",
+      "city": "Kelleytown",
+      "state": "ME",
+      "zip": "38107",
+      "country": "US"
+    },
+    "contact_person": "Richard Lawson",
+    "tax_id": "EIN-57-7738721",
+    "payment_terms": "Net 45",
+    "status": "active",
+    "onboarded_date": "2022-03-25"
+  },
+  {
+    "vendor_id": "VND-011",
+    "name": "Robertson-Schultz",
+    "email": "accounts@davis-crane.com",
+    "phone": "+1-543-832-0037x91769",
+    "address": {
+      "street": "3201 Robinson Unions Suite 083",
+      "city": "South Dennismouth",
+      "state": "TN",
+      "zip": "70117",
+      "country": "US"
+    },
+    "contact_person": "Linda Dodson DVM",
+    "tax_id": "EIN-98-6872774",
+    "payment_terms": "Due on Receipt",
+    "status": "active",
+    "onboarded_date": "2025-01-03"
+  },
+  {
+    "vendor_id": "VND-012",
+    "name": "Larsen LLC",
+    "email": "accounts@washington.com",
+    "phone": "845.458.1223",
+    "address": {
+      "street": "66587 Brown Village",
+      "city": "Priceshire",
+      "state": "UT",
+      "zip": "03061",
+      "country": "US"
+    },
+    "contact_person": "Pamela James",
+    "tax_id": "EIN-05-4668893",
+    "payment_terms": "Due on Receipt",
+    "status": "active",
+    "onboarded_date": "2022-12-10"
+  },
+  {
+    "vendor_id": "VND-013",
+    "name": "Robinson-Graham",
+    "email": "accounts@price.biz",
+    "phone": "001-427-929-8069x9016",
+    "address": {
+      "street": "46537 Rogers Light",
+      "city": "Karenchester",
+      "state": "KS",
+      "zip": "11236",
+      "country": "US"
+    },
+    "contact_person": "Paul Williams",
+    "tax_id": "EIN-53-1003309",
+    "payment_terms": "Net 60",
+    "status": "active",
+    "onboarded_date": "2021-09-15"
+  },
+  {
+    "vendor_id": "VND-014",
+    "name": "Allen Group",
+    "email": "accounts@wilson.com",
+    "phone": "001-852-599-1241x90496",
+    "address": {
+      "street": "314 Laura Port",
+      "city": "West Amandastad",
+      "state": "CA",
+      "zip": "66818",
+      "country": "US"
+    },
+    "contact_person": "Alexandria Fisher",
+    "tax_id": "EIN-71-6572628",
+    "payment_terms": "Net 30",
+    "status": "active",
+    "onboarded_date": "2021-12-27"
+  },
+  {
+    "vendor_id": "VND-015",
+    "name": "Nelson, Morton and Medina",
+    "email": "accounts@marshall-petersen.org",
+    "phone": "253-914-7379x965",
+    "address": {
+      "street": "73545 Beard Squares Suite 808",
+      "city": "North John",
+      "state": "MT",
+      "zip": "64539",
+      "country": "US"
+    },
+    "contact_person": "Cynthia Alvarez",
+    "tax_id": "EIN-77-0143634",
+    "payment_terms": "Net 45",
+    "status": "active",
+    "onboarded_date": "2022-05-01"
+  },
+  {
+    "vendor_id": "VND-016",
+    "name": "Perkins, Kennedy and Schmidt",
+    "email": "accounts@barajas-pierce.com",
+    "phone": "001-574-544-3135x182",
+    "address": {
+      "street": "9894 Marissa Hill Apt. 524",
+      "city": "Lake Amandaview",
+      "state": "AZ",
+      "zip": "07647",
+      "country": "US"
+    },
+    "contact_person": "Melissa Martinez",
+    "tax_id": "EIN-71-0947775",
+    "payment_terms": "Due on Receipt",
+    "status": "active",
+    "onboarded_date": "2024-05-03"
+  },
+  {
+    "vendor_id": "VND-017",
+    "name": "Sheppard LLC",
+    "email": "accounts@wilson-jones.info",
+    "phone": "390-822-9413",
+    "address": {
+      "street": "677 Dalton Meadow",
+      "city": "Ashleyton",
+      "state": "RI",
+      "zip": "97505",
+      "country": "US"
+    },
+    "contact_person": "Phillip Garrett",
+    "tax_id": "EIN-41-2328120",
+    "payment_terms": "Net 60",
+    "status": "active",
+    "onboarded_date": "2025-05-16"
+  },
+  {
+    "vendor_id": "VND-018",
+    "name": "Hayes-Wheeler",
+    "email": "accounts@johnson-roberts.com",
+    "phone": "001-671-434-9361x832",
+    "address": {
+      "street": "24994 Martinez Spurs",
+      "city": "Hollyview",
+      "state": "NY",
+      "zip": "71277",
+      "country": "US"
+    },
+    "contact_person": "Bobby Williams MD",
+    "tax_id": "EIN-59-4013990",
+    "payment_terms": "Net 45",
+    "status": "active",
+    "onboarded_date": "2021-12-18"
+  },
+  {
+    "vendor_id": "VND-019",
+    "name": "Underwood, Johnston and Hines",
+    "email": "accounts@ruiz.info",
+    "phone": "429-767-1756x551",
+    "address": {
+      "street": "746 Shawn Island Suite 516",
+      "city": "Lake Mollymouth",
+      "state": "MT",
+      "zip": "07605",
+      "country": "US"
+    },
+    "contact_person": "Isaiah Avila",
+    "tax_id": "EIN-70-3482477",
+    "payment_terms": "Net 60",
+    "status": "active",
+    "onboarded_date": "2025-09-02"
+  },
+  {
+    "vendor_id": "VND-020",
+    "name": "Johnson Ltd",
+    "email": "accounts@lloyd.com",
+    "phone": "+1-661-631-7127",
+    "address": {
+      "street": "7378 Patrick Rapid Apt. 146",
+      "city": "Sarahhaven",
+      "state": "KY",
+      "zip": "00837",
+      "country": "US"
+    },
+    "contact_person": "Edwin Matthews",
+    "tax_id": "EIN-72-7875588",
+    "payment_terms": "Net 30",
+    "status": "active",
+    "onboarded_date": "2024-02-11"
+  }
+]

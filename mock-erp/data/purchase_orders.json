@@ -1,0 +1,2287 @@
+[
+  {
+    "po_number": "PO-2024-0001",
+    "vendor_id": "VND-004",
+    "status": "open",
+    "category": "support",
+    "created_date": "2025-04-12",
+    "due_date": "2025-07-18",
+    "total_amount": 13243.3,
+    "approved_amount": 13243.3,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 35,
+        "unit": "days",
+        "unit_price": 378.38,
+        "line_total": 13243.3
+      }
+    ],
+    "notes": "",
+    "created_by": "Veronica Allen",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0002",
+    "vendor_id": "VND-003",
+    "status": "open",
+    "category": "consulting",
+    "created_date": "2025-08-09",
+    "due_date": "2025-11-21",
+    "total_amount": 3044.23,
+    "approved_amount": 3044.23,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 7,
+        "unit": "days",
+        "unit_price": 434.89,
+        "line_total": 3044.23
+      }
+    ],
+    "notes": "",
+    "created_by": "Patrick Thornton",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0003",
+    "vendor_id": "VND-009",
+    "status": "open",
+    "category": "logistics",
+    "created_date": "2026-01-16",
+    "due_date": "2026-03-30",
+    "total_amount": 14183.82,
+    "approved_amount": 14183.82,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 11,
+        "unit": "days",
+        "unit_price": 378.11,
+        "line_total": 4159.21
+      },
+      {
+        "line_number": 2,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 4,
+        "unit": "hours",
+        "unit_price": 429.28,
+        "line_total": 1717.12
+      },
+      {
+        "line_number": 3,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 37,
+        "unit": "months",
+        "unit_price": 144.94,
+        "line_total": 5362.78
+      },
+      {
+        "line_number": 4,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 9,
+        "unit": "months",
+        "unit_price": 114.29,
+        "line_total": 1028.61
+      },
+      {
+        "line_number": 5,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 9,
+        "unit": "units",
+        "unit_price": 212.9,
+        "line_total": 1916.1
+      }
+    ],
+    "notes": "Between treat address century that wide.",
+    "created_by": "Richard Baker",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0004",
+    "vendor_id": "VND-014",
+    "status": "open",
+    "category": "training",
+    "created_date": "2026-01-24",
+    "due_date": "2026-06-01",
+    "total_amount": 27706.96,
+    "approved_amount": 27706.96,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 30,
+        "unit": "days",
+        "unit_price": 318.15,
+        "line_total": 9544.5
+      },
+      {
+        "line_number": 2,
+        "description": "End-user training \u2014 Land/geomatics dept",
+        "category": "training",
+        "quantity": 22,
+        "unit": "hours",
+        "unit_price": 395.87,
+        "line_total": 8709.14
+      },
+      {
+        "line_number": 3,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 17,
+        "unit": "units",
+        "unit_price": 479.22,
+        "line_total": 8146.74
+      },
+      {
+        "line_number": 4,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 11,
+        "unit": "hours",
+        "unit_price": 118.78,
+        "line_total": 1306.58
+      }
+    ],
+    "notes": "",
+    "created_by": "Stacy Freeman",
+    "department": "Operations"
+  },
+  {
+    "po_number": "PO-2024-0005",
+    "vendor_id": "VND-010",
+    "status": "open",
+    "category": "development",
+    "created_date": "2026-01-30",
+    "due_date": "2026-05-01",
+    "total_amount": 22758.3,
+    "approved_amount": 22758.3,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 6,
+        "unit": "months",
+        "unit_price": 476.13,
+        "line_total": 2856.78
+      },
+      {
+        "line_number": 2,
+        "description": "API integration development",
+        "category": "development",
+        "quantity": 11,
+        "unit": "days",
+        "unit_price": 476.08,
+        "line_total": 5236.88
+      },
+      {
+        "line_number": 3,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 24,
+        "unit": "hours",
+        "unit_price": 229.55,
+        "line_total": 5509.2
+      },
+      {
+        "line_number": 4,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 38,
+        "unit": "hours",
+        "unit_price": 202.14,
+        "line_total": 7681.32
+      },
+      {
+        "line_number": 5,
+        "description": "Custom module development",
+        "category": "development",
+        "quantity": 4,
+        "unit": "units",
+        "unit_price": 368.53,
+        "line_total": 1474.12
+      }
+    ],
+    "notes": "",
+    "created_by": "Michael Berger",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0006",
+    "vendor_id": "VND-007",
+    "status": "open",
+    "category": "training",
+    "created_date": "2025-11-15",
+    "due_date": "2026-05-10",
+    "total_amount": 26227.52,
+    "approved_amount": 26227.52,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 31,
+        "unit": "days",
+        "unit_price": 262.7,
+        "line_total": 8143.7
+      },
+      {
+        "line_number": 2,
+        "description": "End-user training \u2014 Minerals dept",
+        "category": "training",
+        "quantity": 30,
+        "unit": "hours",
+        "unit_price": 240.61,
+        "line_total": 7218.3
+      },
+      {
+        "line_number": 3,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 13,
+        "unit": "days",
+        "unit_price": 161.9,
+        "line_total": 2104.7
+      },
+      {
+        "line_number": 4,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 5,
+        "unit": "hours",
+        "unit_price": 258.18,
+        "line_total": 1290.9
+      },
+      {
+        "line_number": 5,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 16,
+        "unit": "months",
+        "unit_price": 466.87,
+        "line_total": 7469.92
+      }
+    ],
+    "notes": "Company participant him raise.",
+    "created_by": "Mr. David Little MD",
+    "department": "IT"
+  },
+  {
+    "po_number": "PO-2024-0007",
+    "vendor_id": "VND-013",
+    "status": "open",
+    "category": "consulting",
+    "created_date": "2025-02-24",
+    "due_date": "2025-06-01",
+    "total_amount": 31770.85,
+    "approved_amount": 31770.85,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 36,
+        "unit": "hours",
+        "unit_price": 178.36,
+        "line_total": 6420.96
+      },
+      {
+        "line_number": 2,
+        "description": "Strategic consulting \u2014 Q3 2023",
+        "category": "consulting",
+        "quantity": 35,
+        "unit": "months",
+        "unit_price": 310.63,
+        "line_total": 10872.05
+      },
+      {
+        "line_number": 3,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 34,
+        "unit": "hours",
+        "unit_price": 276.28,
+        "line_total": 9393.52
+      },
+      {
+        "line_number": 4,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 16,
+        "unit": "hours",
+        "unit_price": 317.77,
+        "line_total": 5084.32
+      }
+    ],
+    "notes": "Police interesting economic suddenly current.",
+    "created_by": "John Young",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0008",
+    "vendor_id": "VND-019",
+    "status": "open",
+    "category": "training",
+    "created_date": "2024-10-11",
+    "due_date": "2025-01-29",
+    "total_amount": 13575.74,
+    "approved_amount": 13575.74,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 21,
+        "unit": "months",
+        "unit_price": 141.92,
+        "line_total": 2980.32
+      },
+      {
+        "line_number": 2,
+        "description": "End-user training \u2014 Hotel dept",
+        "category": "training",
+        "quantity": 5,
+        "unit": "hours",
+        "unit_price": 192.28,
+        "line_total": 961.4
+      },
+      {
+        "line_number": 3,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 33,
+        "unit": "days",
+        "unit_price": 291.94,
+        "line_total": 9634.02
+      }
+    ],
+    "notes": "",
+    "created_by": "Keith Jennings",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0009",
+    "vendor_id": "VND-018",
+    "status": "open",
+    "category": "logistics",
+    "created_date": "2025-05-25",
+    "due_date": "2025-11-06",
+    "total_amount": 12619.44,
+    "approved_amount": 12619.44,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 36,
+        "unit": "hours",
+        "unit_price": 350.54,
+        "line_total": 12619.44
+      }
+    ],
+    "notes": "Seat strategy total simply discover soon despite couple.",
+    "created_by": "Perry Saunders",
+    "department": "IT"
+  },
+  {
+    "po_number": "PO-2024-0010",
+    "vendor_id": "VND-009",
+    "status": "open",
+    "category": "support",
+    "created_date": "2025-08-27",
+    "due_date": "2025-12-22",
+    "total_amount": 7378.92,
+    "approved_amount": 7378.92,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 17,
+        "unit": "months",
+        "unit_price": 359.37,
+        "line_total": 6109.29
+      },
+      {
+        "line_number": 2,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 3,
+        "unit": "months",
+        "unit_price": 423.21,
+        "line_total": 1269.63
+      }
+    ],
+    "notes": "",
+    "created_by": "Jeremiah Riley",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0011",
+    "vendor_id": "VND-018",
+    "status": "open",
+    "category": "consulting",
+    "created_date": "2025-12-06",
+    "due_date": "2026-01-24",
+    "total_amount": 7734.75,
+    "approved_amount": 7734.75,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "IT consulting \u2014 Phase 2",
+        "category": "consulting",
+        "quantity": 24,
+        "unit": "days",
+        "unit_price": 295.52,
+        "line_total": 7092.48
+      },
+      {
+        "line_number": 2,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 3,
+        "unit": "days",
+        "unit_price": 214.09,
+        "line_total": 642.27
+      }
+    ],
+    "notes": "Compare car much will most tree.",
+    "created_by": "Dawn Summers",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0012",
+    "vendor_id": "VND-020",
+    "status": "open",
+    "category": "logistics",
+    "created_date": "2025-10-23",
+    "due_date": "2026-01-21",
+    "total_amount": 7061.9,
+    "approved_amount": 7061.9,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 12,
+        "unit": "units",
+        "unit_price": 489.29,
+        "line_total": 5871.48
+      },
+      {
+        "line_number": 2,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 7,
+        "unit": "months",
+        "unit_price": 170.06,
+        "line_total": 1190.42
+      }
+    ],
+    "notes": "",
+    "created_by": "Julie Jones",
+    "department": "IT"
+  },
+  {
+    "po_number": "PO-2024-0013",
+    "vendor_id": "VND-008",
+    "status": "open",
+    "category": "consulting",
+    "created_date": "2025-09-14",
+    "due_date": "2026-01-24",
+    "total_amount": 11982.71,
+    "approved_amount": 11982.71,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 5,
+        "unit": "days",
+        "unit_price": 175.37,
+        "line_total": 876.85
+      },
+      {
+        "line_number": 2,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 8,
+        "unit": "hours",
+        "unit_price": 472.66,
+        "line_total": 3781.28
+      },
+      {
+        "line_number": 3,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 23,
+        "unit": "months",
+        "unit_price": 318.46,
+        "line_total": 7324.58
+      }
+    ],
+    "notes": "Bed house enough buy happy see.",
+    "created_by": "James Little",
+    "department": "IT"
+  },
+  {
+    "po_number": "PO-2024-0014",
+    "vendor_id": "VND-009",
+    "status": "open",
+    "category": "consulting",
+    "created_date": "2025-01-08",
+    "due_date": "2025-02-07",
+    "total_amount": 39961.34,
+    "approved_amount": 39961.34,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 35,
+        "unit": "days",
+        "unit_price": 466.51,
+        "line_total": 16327.85
+      },
+      {
+        "line_number": 2,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 8,
+        "unit": "months",
+        "unit_price": 348.52,
+        "line_total": 2788.16
+      },
+      {
+        "line_number": 3,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 36,
+        "unit": "days",
+        "unit_price": 363.74,
+        "line_total": 13094.64
+      },
+      {
+        "line_number": 4,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 1,
+        "unit": "days",
+        "unit_price": 232.73,
+        "line_total": 232.73
+      },
+      {
+        "line_number": 5,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 29,
+        "unit": "days",
+        "unit_price": 259.24,
+        "line_total": 7517.96
+      }
+    ],
+    "notes": "",
+    "created_by": "Julie Haynes",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0015",
+    "vendor_id": "VND-020",
+    "status": "open",
+    "category": "support",
+    "created_date": "2025-12-25",
+    "due_date": "2026-03-25",
+    "total_amount": 11742.18,
+    "approved_amount": 11742.18,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 13,
+        "unit": "hours",
+        "unit_price": 151.09,
+        "line_total": 1964.17
+      },
+      {
+        "line_number": 2,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 37,
+        "unit": "units",
+        "unit_price": 254.94,
+        "line_total": 9432.78
+      },
+      {
+        "line_number": 3,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 1,
+        "unit": "months",
+        "unit_price": 345.23,
+        "line_total": 345.23
+      }
+    ],
+    "notes": "",
+    "created_by": "David Medina",
+    "department": "IT"
+  },
+  {
+    "po_number": "PO-2024-0016",
+    "vendor_id": "VND-004",
+    "status": "open",
+    "category": "maintenance",
+    "created_date": "2025-11-14",
+    "due_date": "2026-04-11",
+    "total_amount": 48209.11,
+    "approved_amount": 48209.11,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 39,
+        "unit": "months",
+        "unit_price": 494.55,
+        "line_total": 19287.45
+      },
+      {
+        "line_number": 2,
+        "description": "Software patch management",
+        "category": "maintenance",
+        "quantity": 31,
+        "unit": "months",
+        "unit_price": 453.74,
+        "line_total": 14065.94
+      },
+      {
+        "line_number": 3,
+        "description": "Software patch management",
+        "category": "maintenance",
+        "quantity": 18,
+        "unit": "days",
+        "unit_price": 332.04,
+        "line_total": 5976.72
+      },
+      {
+        "line_number": 4,
+        "description": "Annual maintenance contract",
+        "category": "maintenance",
+        "quantity": 35,
+        "unit": "units",
+        "unit_price": 201.13,
+        "line_total": 7039.55
+      },
+      {
+        "line_number": 5,
+        "description": "Software patch management",
+        "category": "maintenance",
+        "quantity": 5,
+        "unit": "months",
+        "unit_price": 367.89,
+        "line_total": 1839.45
+      }
+    ],
+    "notes": "",
+    "created_by": "Trevor Johnson",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0017",
+    "vendor_id": "VND-013",
+    "status": "open",
+    "category": "training",
+    "created_date": "2026-03-10",
+    "due_date": "2026-09-03",
+    "total_amount": 24675.56,
+    "approved_amount": 24675.56,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 23,
+        "unit": "units",
+        "unit_price": 264.64,
+        "line_total": 6086.72
+      },
+      {
+        "line_number": 2,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 18,
+        "unit": "months",
+        "unit_price": 269.7,
+        "line_total": 4854.6
+      },
+      {
+        "line_number": 3,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 30,
+        "unit": "hours",
+        "unit_price": 375.88,
+        "line_total": 11276.4
+      },
+      {
+        "line_number": 4,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 28,
+        "unit": "months",
+        "unit_price": 87.78,
+        "line_total": 2457.84
+      }
+    ],
+    "notes": "",
+    "created_by": "Vanessa Howard",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0018",
+    "vendor_id": "VND-011",
+    "status": "open",
+    "category": "support",
+    "created_date": "2025-03-07",
+    "due_date": "2025-06-16",
+    "total_amount": 9194.67,
+    "approved_amount": 9194.67,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 6,
+        "unit": "days",
+        "unit_price": 163.52,
+        "line_total": 981.12
+      },
+      {
+        "line_number": 2,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 5,
+        "unit": "units",
+        "unit_price": 150.9,
+        "line_total": 754.5
+      },
+      {
+        "line_number": 3,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 31,
+        "unit": "units",
+        "unit_price": 157.35,
+        "line_total": 4877.85
+      },
+      {
+        "line_number": 4,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 8,
+        "unit": "days",
+        "unit_price": 322.65,
+        "line_total": 2581.2
+      }
+    ],
+    "notes": "",
+    "created_by": "Amber Cook",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0019",
+    "vendor_id": "VND-013",
+    "status": "open",
+    "category": "logistics",
+    "created_date": "2025-09-08",
+    "due_date": "2025-10-27",
+    "total_amount": 22003.03,
+    "approved_amount": 22003.03,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Freight & shipping \u2014 August",
+        "category": "logistics",
+        "quantity": 16,
+        "unit": "hours",
+        "unit_price": 360.78,
+        "line_total": 5772.48
+      },
+      {
+        "line_number": 2,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 28,
+        "unit": "months",
+        "unit_price": 206.24,
+        "line_total": 5774.72
+      },
+      {
+        "line_number": 3,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 7,
+        "unit": "months",
+        "unit_price": 420.05,
+        "line_total": 2940.35
+      },
+      {
+        "line_number": 4,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 34,
+        "unit": "days",
+        "unit_price": 129.26,
+        "line_total": 4394.84
+      },
+      {
+        "line_number": 5,
+        "description": "Freight & shipping \u2014 June",
+        "category": "logistics",
+        "quantity": 16,
+        "unit": "months",
+        "unit_price": 195.04,
+        "line_total": 3120.64
+      }
+    ],
+    "notes": "",
+    "created_by": "Linda Ramirez",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0020",
+    "vendor_id": "VND-011",
+    "status": "open",
+    "category": "development",
+    "created_date": "2024-11-16",
+    "due_date": "2025-02-08",
+    "total_amount": 13829.67,
+    "approved_amount": 13829.67,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "API integration development",
+        "category": "development",
+        "quantity": 22,
+        "unit": "units",
+        "unit_price": 409.02,
+        "line_total": 8998.44
+      },
+      {
+        "line_number": 2,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 27,
+        "unit": "months",
+        "unit_price": 88.53,
+        "line_total": 2390.31
+      },
+      {
+        "line_number": 3,
+        "description": "API integration development",
+        "category": "development",
+        "quantity": 6,
+        "unit": "days",
+        "unit_price": 406.82,
+        "line_total": 2440.92
+      }
+    ],
+    "notes": "",
+    "created_by": "Hunter Kramer",
+    "department": "Procurement"
+  },
+  {
+    "po_number": "PO-2024-0021",
+    "vendor_id": "VND-012",
+    "status": "open",
+    "category": "maintenance",
+    "created_date": "2025-04-26",
+    "due_date": "2025-08-24",
+    "total_amount": 17237.55,
+    "approved_amount": 17237.55,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Preventive maintenance \u2014 February",
+        "category": "maintenance",
+        "quantity": 17,
+        "unit": "hours",
+        "unit_price": 171.91,
+        "line_total": 2922.47
+      },
+      {
+        "line_number": 2,
+        "description": "Preventive maintenance \u2014 October",
+        "category": "maintenance",
+        "quantity": 12,
+        "unit": "days",
+        "unit_price": 384.3,
+        "line_total": 4611.6
+      },
+      {
+        "line_number": 3,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 13,
+        "unit": "hours",
+        "unit_price": 491.23,
+        "line_total": 6385.99
+      },
+      {
+        "line_number": 4,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 9,
+        "unit": "units",
+        "unit_price": 368.61,
+        "line_total": 3317.49
+      }
+    ],
+    "notes": "Large gun order later develop past road.",
+    "created_by": "Mary Turner",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0022",
+    "vendor_id": "VND-004",
+    "status": "open",
+    "category": "consulting",
+    "created_date": "2025-06-12",
+    "due_date": "2025-11-09",
+    "total_amount": 26970.83,
+    "approved_amount": 26970.83,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Strategic consulting \u2014 Q3 2024",
+        "category": "consulting",
+        "quantity": 12,
+        "unit": "months",
+        "unit_price": 248.21,
+        "line_total": 2978.52
+      },
+      {
+        "line_number": 2,
+        "description": "Strategic consulting \u2014 Q2 2023",
+        "category": "consulting",
+        "quantity": 37,
+        "unit": "hours",
+        "unit_price": 271.29,
+        "line_total": 10037.73
+      },
+      {
+        "line_number": 3,
+        "description": "IT consulting \u2014 Phase 5",
+        "category": "consulting",
+        "quantity": 8,
+        "unit": "units",
+        "unit_price": 497.26,
+        "line_total": 3978.08
+      },
+      {
+        "line_number": 4,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 25,
+        "unit": "days",
+        "unit_price": 399.06,
+        "line_total": 9976.5
+      }
+    ],
+    "notes": "",
+    "created_by": "Jill Lam",
+    "department": "Finance"
+  },
+  {
+    "po_number": "PO-2024-0023",
+    "vendor_id": "VND-020",
+    "status": "open",
+    "category": "logistics",
+    "created_date": "2025-12-19",
+    "due_date": "2026-03-12",
+    "total_amount": 2499.34,
+    "approved_amount": 2499.34,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 6,
+        "unit": "units",
+        "unit_price": 169.09,
+        "line_total": 1014.54
+      },
+      {
+        "line_number": 2,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 29,
+        "unit": "days",
+        "unit_price": 51.2,
+        "line_total": 1484.8
+      }
+    ],
+    "notes": "Plan nature foot yes most law painting between.",
+    "created_by": "Sarah Curtis",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0024",
+    "vendor_id": "VND-015",
+    "status": "open",
+    "category": "consulting",
+    "created_date": "2025-08-03",
+    "due_date": "2025-11-08",
+    "total_amount": 24613.6,
+    "approved_amount": 24613.6,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 13,
+        "unit": "days",
+        "unit_price": 347.53,
+        "line_total": 4517.89
+      },
+      {
+        "line_number": 2,
+        "description": "Strategic consulting \u2014 Q2 2024",
+        "category": "consulting",
+        "quantity": 5,
+        "unit": "days",
+        "unit_price": 421.98,
+        "line_total": 2109.9
+      },
+      {
+        "line_number": 3,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 30,
+        "unit": "months",
+        "unit_price": 247.62,
+        "line_total": 7428.6
+      },
+      {
+        "line_number": 4,
+        "description": "Strategic consulting \u2014 Q4 2025",
+        "category": "consulting",
+        "quantity": 39,
+        "unit": "days",
+        "unit_price": 246.99,
+        "line_total": 9632.61
+      },
+      {
+        "line_number": 5,
+        "description": "IT consulting \u2014 Phase 3",
+        "category": "consulting",
+        "quantity": 15,
+        "unit": "hours",
+        "unit_price": 61.64,
+        "line_total": 924.6
+      }
+    ],
+    "notes": "Hear check type attack story.",
+    "created_by": "Brent Rodgers",
+    "department": "IT"
+  },
+  {
+    "po_number": "PO-2024-0025",
+    "vendor_id": "VND-016",
+    "status": "open",
+    "category": "training",
+    "created_date": "2025-01-02",
+    "due_date": "2025-04-13",
+    "total_amount": 15323.0,
+    "approved_amount": 15323.0,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 28,
+        "unit": "days",
+        "unit_price": 498.63,
+        "line_total": 13961.64
+      },
+      {
+        "line_number": 2,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 7,
+        "unit": "months",
+        "unit_price": 194.48,
+        "line_total": 1361.36
+      }
+    ],
+    "notes": "Form business government program seek test return.",
+    "created_by": "Lindsay Bell",
+    "department": "Procurement"
+  },
+  {
+    "po_number": "PO-2024-0026",
+    "vendor_id": "VND-002",
+    "status": "open",
+    "category": "maintenance",
+    "created_date": "2025-12-30",
+    "due_date": "2026-04-19",
+    "total_amount": 9143.1,
+    "approved_amount": 9143.1,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 26,
+        "unit": "months",
+        "unit_price": 195.47,
+        "line_total": 5082.22
+      },
+      {
+        "line_number": 2,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 34,
+        "unit": "units",
+        "unit_price": 74.39,
+        "line_total": 2529.26
+      },
+      {
+        "line_number": 3,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 9,
+        "unit": "hours",
+        "unit_price": 170.18,
+        "line_total": 1531.62
+      }
+    ],
+    "notes": "Suddenly happen several off southern suddenly.",
+    "created_by": "Sabrina Austin",
+    "department": "Procurement"
+  },
+  {
+    "po_number": "PO-2024-0027",
+    "vendor_id": "VND-008",
+    "status": "open",
+    "category": "logistics",
+    "created_date": "2025-10-19",
+    "due_date": "2026-02-05",
+    "total_amount": 26730.78,
+    "approved_amount": 26730.78,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Freight & shipping \u2014 February",
+        "category": "logistics",
+        "quantity": 27,
+        "unit": "units",
+        "unit_price": 56.15,
+        "line_total": 1516.05
+      },
+      {
+        "line_number": 2,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 19,
+        "unit": "units",
+        "unit_price": 274.27,
+        "line_total": 5211.13
+      },
+      {
+        "line_number": 3,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 10,
+        "unit": "hours",
+        "unit_price": 255.55,
+        "line_total": 2555.5
+      },
+      {
+        "line_number": 4,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 27,
+        "unit": "months",
+        "unit_price": 174.31,
+        "line_total": 4706.37
+      },
+      {
+        "line_number": 5,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 29,
+        "unit": "months",
+        "unit_price": 439.37,
+        "line_total": 12741.73
+      }
+    ],
+    "notes": "",
+    "created_by": "Sergio Knight",
+    "department": "Operations"
+  },
+  {
+    "po_number": "PO-2024-0028",
+    "vendor_id": "VND-007",
+    "status": "open",
+    "category": "logistics",
+    "created_date": "2025-07-29",
+    "due_date": "2026-01-21",
+    "total_amount": 23357.72,
+    "approved_amount": 23357.72,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Freight & shipping \u2014 July",
+        "category": "logistics",
+        "quantity": 27,
+        "unit": "months",
+        "unit_price": 155.1,
+        "line_total": 4187.7
+      },
+      {
+        "line_number": 2,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 10,
+        "unit": "days",
+        "unit_price": 494.79,
+        "line_total": 4947.9
+      },
+      {
+        "line_number": 3,
+        "description": "Freight & shipping \u2014 March",
+        "category": "logistics",
+        "quantity": 29,
+        "unit": "units",
+        "unit_price": 441.37,
+        "line_total": 12799.73
+      },
+      {
+        "line_number": 4,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 17,
+        "unit": "months",
+        "unit_price": 83.67,
+        "line_total": 1422.39
+      }
+    ],
+    "notes": "Game have return since nothing be apply.",
+    "created_by": "Luke Craig",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0029",
+    "vendor_id": "VND-016",
+    "status": "open",
+    "category": "training",
+    "created_date": "2026-02-22",
+    "due_date": "2026-04-10",
+    "total_amount": 8843.58,
+    "approved_amount": 8843.58,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Administrator training program",
+        "category": "training",
+        "quantity": 19,
+        "unit": "months",
+        "unit_price": 334.02,
+        "line_total": 6346.38
+      },
+      {
+        "line_number": 2,
+        "description": "End-user training \u2014 Private dept",
+        "category": "training",
+        "quantity": 20,
+        "unit": "days",
+        "unit_price": 124.86,
+        "line_total": 2497.2
+      }
+    ],
+    "notes": "",
+    "created_by": "Daniel Hunt",
+    "department": "IT"
+  },
+  {
+    "po_number": "PO-2024-0030",
+    "vendor_id": "VND-008",
+    "status": "open",
+    "category": "training",
+    "created_date": "2025-02-02",
+    "due_date": "2025-07-26",
+    "total_amount": 3385.1,
+    "approved_amount": 3385.1,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Advanced skills workshop",
+        "category": "training",
+        "quantity": 6,
+        "unit": "units",
+        "unit_price": 126.49,
+        "line_total": 758.94
+      },
+      {
+        "line_number": 2,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 17,
+        "unit": "days",
+        "unit_price": 154.48,
+        "line_total": 2626.16
+      }
+    ],
+    "notes": "Money final determine worker area daughter war.",
+    "created_by": "Pamela Roberts",
+    "department": "IT"
+  },
+  {
+    "po_number": "PO-2024-0031",
+    "vendor_id": "VND-003",
+    "status": "open",
+    "category": "maintenance",
+    "created_date": "2025-04-11",
+    "due_date": "2025-10-08",
+    "total_amount": 24642.39,
+    "approved_amount": 24642.39,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 28,
+        "unit": "months",
+        "unit_price": 337.52,
+        "line_total": 9450.56
+      },
+      {
+        "line_number": 2,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 25,
+        "unit": "hours",
+        "unit_price": 97.99,
+        "line_total": 2449.75
+      },
+      {
+        "line_number": 3,
+        "description": "Hardware maintenance services",
+        "category": "maintenance",
+        "quantity": 26,
+        "unit": "months",
+        "unit_price": 490.08,
+        "line_total": 12742.08
+      }
+    ],
+    "notes": "Matter street south author technology.",
+    "created_by": "Albert Morse",
+    "department": "Operations"
+  },
+  {
+    "po_number": "PO-2024-0032",
+    "vendor_id": "VND-008",
+    "status": "open",
+    "category": "training",
+    "created_date": "2025-04-04",
+    "due_date": "2025-06-29",
+    "total_amount": 5241.96,
+    "approved_amount": 5241.96,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "End-user training \u2014 Teaching dept",
+        "category": "training",
+        "quantity": 9,
+        "unit": "days",
+        "unit_price": 329.4,
+        "line_total": 2964.6
+      },
+      {
+        "line_number": 2,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 6,
+        "unit": "units",
+        "unit_price": 379.56,
+        "line_total": 2277.36
+      }
+    ],
+    "notes": "",
+    "created_by": "Jennifer Wilson",
+    "department": "Procurement"
+  },
+  {
+    "po_number": "PO-2024-0033",
+    "vendor_id": "VND-012",
+    "status": "open",
+    "category": "training",
+    "created_date": "2024-11-02",
+    "due_date": "2025-02-09",
+    "total_amount": 10975.39,
+    "approved_amount": 10975.39,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 31,
+        "unit": "units",
+        "unit_price": 165.64,
+        "line_total": 5134.84
+      },
+      {
+        "line_number": 2,
+        "description": "Onboarding training package",
+        "category": "training",
+        "quantity": 15,
+        "unit": "days",
+        "unit_price": 389.37,
+        "line_total": 5840.55
+      }
+    ],
+    "notes": "",
+    "created_by": "Michael Cox",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0034",
+    "vendor_id": "VND-012",
+    "status": "open",
+    "category": "logistics",
+    "created_date": "2025-07-05",
+    "due_date": "2025-12-31",
+    "total_amount": 22746.27,
+    "approved_amount": 22746.27,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Freight & shipping \u2014 July",
+        "category": "logistics",
+        "quantity": 24,
+        "unit": "days",
+        "unit_price": 420.09,
+        "line_total": 10082.16
+      },
+      {
+        "line_number": 2,
+        "description": "Freight & shipping \u2014 September",
+        "category": "logistics",
+        "quantity": 15,
+        "unit": "hours",
+        "unit_price": 461.87,
+        "line_total": 6928.05
+      },
+      {
+        "line_number": 3,
+        "description": "Last-mile delivery services",
+        "category": "logistics",
+        "quantity": 3,
+        "unit": "units",
+        "unit_price": 112.9,
+        "line_total": 338.7
+      },
+      {
+        "line_number": 4,
+        "description": "Supply chain coordination",
+        "category": "logistics",
+        "quantity": 24,
+        "unit": "hours",
+        "unit_price": 224.89,
+        "line_total": 5397.36
+      }
+    ],
+    "notes": "Develop single baby plan most create.",
+    "created_by": "Heather Mullen",
+    "department": "Procurement"
+  },
+  {
+    "po_number": "PO-2024-0035",
+    "vendor_id": "VND-014",
+    "status": "open",
+    "category": "support",
+    "created_date": "2026-02-25",
+    "due_date": "2026-06-29",
+    "total_amount": 5382.82,
+    "approved_amount": 5382.82,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 16,
+        "unit": "days",
+        "unit_price": 249.52,
+        "line_total": 3992.32
+      },
+      {
+        "line_number": 2,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 18,
+        "unit": "hours",
+        "unit_price": 77.25,
+        "line_total": 1390.5
+      }
+    ],
+    "notes": "",
+    "created_by": "Christopher Hernandez",
+    "department": "Operations"
+  },
+  {
+    "po_number": "PO-2024-0036",
+    "vendor_id": "VND-008",
+    "status": "open",
+    "category": "development",
+    "created_date": "2025-09-01",
+    "due_date": "2025-10-18",
+    "total_amount": 23368.63,
+    "approved_amount": 23368.63,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Custom module development",
+        "category": "development",
+        "quantity": 14,
+        "unit": "days",
+        "unit_price": 143.22,
+        "line_total": 2005.08
+      },
+      {
+        "line_number": 2,
+        "description": "Custom module development",
+        "category": "development",
+        "quantity": 10,
+        "unit": "units",
+        "unit_price": 436.28,
+        "line_total": 4362.8
+      },
+      {
+        "line_number": 3,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 16,
+        "unit": "hours",
+        "unit_price": 56.69,
+        "line_total": 907.04
+      },
+      {
+        "line_number": 4,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 27,
+        "unit": "months",
+        "unit_price": 107.04,
+        "line_total": 2890.08
+      },
+      {
+        "line_number": 5,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 33,
+        "unit": "hours",
+        "unit_price": 400.11,
+        "line_total": 13203.63
+      }
+    ],
+    "notes": "Follow wife firm key light place someone option.",
+    "created_by": "Benjamin Murray",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0037",
+    "vendor_id": "VND-017",
+    "status": "open",
+    "category": "support",
+    "created_date": "2024-12-16",
+    "due_date": "2025-01-22",
+    "total_amount": 12983.36,
+    "approved_amount": 12983.36,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 26,
+        "unit": "hours",
+        "unit_price": 499.36,
+        "line_total": 12983.36
+      }
+    ],
+    "notes": "",
+    "created_by": "Angela Lin",
+    "department": "IT"
+  },
+  {
+    "po_number": "PO-2024-0038",
+    "vendor_id": "VND-003",
+    "status": "open",
+    "category": "development",
+    "created_date": "2025-06-22",
+    "due_date": "2025-12-18",
+    "total_amount": 21881.07,
+    "approved_amount": 21881.07,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 25,
+        "unit": "months",
+        "unit_price": 370.47,
+        "line_total": 9261.75
+      },
+      {
+        "line_number": 2,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 8,
+        "unit": "months",
+        "unit_price": 94.63,
+        "line_total": 757.04
+      },
+      {
+        "line_number": 3,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 30,
+        "unit": "months",
+        "unit_price": 202.52,
+        "line_total": 6075.6
+      },
+      {
+        "line_number": 4,
+        "description": "API integration development",
+        "category": "development",
+        "quantity": 17,
+        "unit": "hours",
+        "unit_price": 190.64,
+        "line_total": 3240.88
+      },
+      {
+        "line_number": 5,
+        "description": "UI/UX development services",
+        "category": "development",
+        "quantity": 6,
+        "unit": "hours",
+        "unit_price": 424.3,
+        "line_total": 2545.8
+      }
+    ],
+    "notes": "",
+    "created_by": "Erica Alvarez",
+    "department": "Procurement"
+  },
+  {
+    "po_number": "PO-2024-0039",
+    "vendor_id": "VND-018",
+    "status": "open",
+    "category": "support",
+    "created_date": "2025-11-25",
+    "due_date": "2026-04-09",
+    "total_amount": 18578.8,
+    "approved_amount": 18578.8,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 28,
+        "unit": "hours",
+        "unit_price": 443.12,
+        "line_total": 12407.36
+      },
+      {
+        "line_number": 2,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 14,
+        "unit": "days",
+        "unit_price": 310.06,
+        "line_total": 4340.84
+      },
+      {
+        "line_number": 3,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 18,
+        "unit": "hours",
+        "unit_price": 101.7,
+        "line_total": 1830.6
+      }
+    ],
+    "notes": "Position always remain yard model particular hair.",
+    "created_by": "Jasmine Schroeder",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0040",
+    "vendor_id": "VND-009",
+    "status": "open",
+    "category": "consulting",
+    "created_date": "2025-09-27",
+    "due_date": "2026-01-04",
+    "total_amount": 13332.15,
+    "approved_amount": 13332.15,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Strategic consulting \u2014 Q2 2023",
+        "category": "consulting",
+        "quantity": 23,
+        "unit": "hours",
+        "unit_price": 464.69,
+        "line_total": 10687.87
+      },
+      {
+        "line_number": 2,
+        "description": "Strategic consulting \u2014 Q2 2024",
+        "category": "consulting",
+        "quantity": 2,
+        "unit": "days",
+        "unit_price": 113.84,
+        "line_total": 227.68
+      },
+      {
+        "line_number": 3,
+        "description": "Process improvement consulting",
+        "category": "consulting",
+        "quantity": 20,
+        "unit": "hours",
+        "unit_price": 120.83,
+        "line_total": 2416.6
+      }
+    ],
+    "notes": "Question exist rich prevent trade their four.",
+    "created_by": "Brenda Bailey",
+    "department": "Operations"
+  },
+  {
+    "po_number": "PO-2024-0041",
+    "vendor_id": "VND-015",
+    "status": "closed",
+    "category": "logistics",
+    "created_date": "2025-01-20",
+    "due_date": "2025-06-23",
+    "total_amount": 20792.09,
+    "approved_amount": 19461.6,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 18,
+        "unit": "days",
+        "unit_price": 248.92,
+        "line_total": 4480.56
+      },
+      {
+        "line_number": 2,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 38,
+        "unit": "hours",
+        "unit_price": 355.2,
+        "line_total": 13497.6
+      },
+      {
+        "line_number": 3,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 20,
+        "unit": "hours",
+        "unit_price": 53.46,
+        "line_total": 1069.2
+      },
+      {
+        "line_number": 4,
+        "description": "Warehouse management services",
+        "category": "logistics",
+        "quantity": 28,
+        "unit": "days",
+        "unit_price": 53.48,
+        "line_total": 1497.44
+      },
+      {
+        "line_number": 5,
+        "description": "Cold-chain logistics",
+        "category": "logistics",
+        "quantity": 3,
+        "unit": "months",
+        "unit_price": 82.43,
+        "line_total": 247.29
+      }
+    ],
+    "notes": "Position interest gun guy.",
+    "created_by": "Daniel Meza",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0042",
+    "vendor_id": "VND-010",
+    "status": "closed",
+    "category": "consulting",
+    "created_date": "2025-02-09",
+    "due_date": "2025-03-16",
+    "total_amount": 13689.58,
+    "approved_amount": 12357.1,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 40,
+        "unit": "units",
+        "unit_price": 127.34,
+        "line_total": 5093.6
+      },
+      {
+        "line_number": 2,
+        "description": "IT consulting \u2014 Phase 3",
+        "category": "consulting",
+        "quantity": 26,
+        "unit": "units",
+        "unit_price": 246.05,
+        "line_total": 6397.3
+      },
+      {
+        "line_number": 3,
+        "description": "Strategic consulting \u2014 Q1 2025",
+        "category": "consulting",
+        "quantity": 11,
+        "unit": "days",
+        "unit_price": 199.88,
+        "line_total": 2198.68
+      }
+    ],
+    "notes": "Side strong this also from short capital.",
+    "created_by": "Christopher Guerra",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0043",
+    "vendor_id": "VND-005",
+    "status": "closed",
+    "category": "development",
+    "created_date": "2025-12-15",
+    "due_date": "2026-02-20",
+    "total_amount": 20944.07,
+    "approved_amount": 18777.64,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Custom module development",
+        "category": "development",
+        "quantity": 39,
+        "unit": "months",
+        "unit_price": 138.77,
+        "line_total": 5412.03
+      },
+      {
+        "line_number": 2,
+        "description": "Database design & development",
+        "category": "development",
+        "quantity": 37,
+        "unit": "months",
+        "unit_price": 356.51,
+        "line_total": 13190.87
+      },
+      {
+        "line_number": 3,
+        "description": "API integration development",
+        "category": "development",
+        "quantity": 29,
+        "unit": "hours",
+        "unit_price": 80.73,
+        "line_total": 2341.17
+      }
+    ],
+    "notes": "",
+    "created_by": "Lisa Goodwin",
+    "department": "Finance"
+  },
+  {
+    "po_number": "PO-2024-0044",
+    "vendor_id": "VND-012",
+    "status": "closed",
+    "category": "support",
+    "created_date": "2026-01-11",
+    "due_date": "2026-03-05",
+    "total_amount": 26511.22,
+    "approved_amount": 23860.21,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 25,
+        "unit": "days",
+        "unit_price": 317.34,
+        "line_total": 7933.5
+      },
+      {
+        "line_number": 2,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 33,
+        "unit": "hours",
+        "unit_price": 322.25,
+        "line_total": 10634.25
+      },
+      {
+        "line_number": 3,
+        "description": "Tier-1 help desk support",
+        "category": "support",
+        "quantity": 12,
+        "unit": "units",
+        "unit_price": 277.05,
+        "line_total": 3324.6
+      },
+      {
+        "line_number": 4,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 19,
+        "unit": "days",
+        "unit_price": 213.75,
+        "line_total": 4061.25
+      },
+      {
+        "line_number": 5,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 7,
+        "unit": "units",
+        "unit_price": 79.66,
+        "line_total": 557.62
+      }
+    ],
+    "notes": "",
+    "created_by": "Mrs. Diane Reyes",
+    "department": "IT"
+  },
+  {
+    "po_number": "PO-2024-0045",
+    "vendor_id": "VND-012",
+    "status": "closed",
+    "category": "support",
+    "created_date": "2025-02-22",
+    "due_date": "2025-04-26",
+    "total_amount": 26739.79,
+    "approved_amount": 22904.07,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "24/7 system monitoring",
+        "category": "support",
+        "quantity": 6,
+        "unit": "hours",
+        "unit_price": 368.98,
+        "line_total": 2213.88
+      },
+      {
+        "line_number": 2,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 28,
+        "unit": "units",
+        "unit_price": 340.71,
+        "line_total": 9539.88
+      },
+      {
+        "line_number": 3,
+        "description": "SLA-based support package",
+        "category": "support",
+        "quantity": 22,
+        "unit": "hours",
+        "unit_price": 478.03,
+        "line_total": 10516.66
+      },
+      {
+        "line_number": 4,
+        "description": "Remote support services",
+        "category": "support",
+        "quantity": 7,
+        "unit": "units",
+        "unit_price": 183.11,
+        "line_total": 1281.77
+      },
+      {
+        "line_number": 5,
+        "description": "On-site technical support",
+        "category": "support",
+        "quantity": 10,
+        "unit": "months",
+        "unit_price": 318.76,
+        "line_total": 3187.6
+      }
+    ],
+    "notes": "",
+    "created_by": "Michelle Black",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0046",
+    "vendor_id": "VND-008",
+    "status": "closed",
+    "category": "maintenance",
+    "created_date": "2025-06-12",
+    "due_date": "2025-11-03",
+    "total_amount": 15712.45,
+    "approved_amount": 15413.13,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Software patch management",
+        "category": "maintenance",
+        "quantity": 20,
+        "unit": "months",
+        "unit_price": 290.31,
+        "line_total": 5806.2
+      },
+      {
+        "line_number": 2,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 25,
+        "unit": "units",
+        "unit_price": 396.25,
+        "line_total": 9906.25
+      }
+    ],
+    "notes": "",
+    "created_by": "Jose Guerra",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0047",
+    "vendor_id": "VND-012",
+    "status": "closed",
+    "category": "training",
+    "created_date": "2025-12-15",
+    "due_date": "2026-05-26",
+    "total_amount": 1961.08,
+    "approved_amount": 1945.32,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Compliance training sessions",
+        "category": "training",
+        "quantity": 11,
+        "unit": "hours",
+        "unit_price": 178.28,
+        "line_total": 1961.08
+      }
+    ],
+    "notes": "",
+    "created_by": "Stacey Arias",
+    "department": "HR"
+  },
+  {
+    "po_number": "PO-2024-0048",
+    "vendor_id": "VND-012",
+    "status": "closed",
+    "category": "consulting",
+    "created_date": "2025-01-30",
+    "due_date": "2025-03-14",
+    "total_amount": 42191.7,
+    "approved_amount": 36634.09,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 16,
+        "unit": "days",
+        "unit_price": 275.9,
+        "line_total": 4414.4
+      },
+      {
+        "line_number": 2,
+        "description": "Business analysis services",
+        "category": "consulting",
+        "quantity": 22,
+        "unit": "units",
+        "unit_price": 468.87,
+        "line_total": 10315.14
+      },
+      {
+        "line_number": 3,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 31,
+        "unit": "units",
+        "unit_price": 391.48,
+        "line_total": 12135.88
+      },
+      {
+        "line_number": 4,
+        "description": "IT consulting \u2014 Phase 3",
+        "category": "consulting",
+        "quantity": 36,
+        "unit": "days",
+        "unit_price": 425.73,
+        "line_total": 15326.28
+      }
+    ],
+    "notes": "",
+    "created_by": "Brett Espinoza",
+    "department": "Legal"
+  },
+  {
+    "po_number": "PO-2024-0049",
+    "vendor_id": "VND-020",
+    "status": "closed",
+    "category": "maintenance",
+    "created_date": "2026-01-25",
+    "due_date": "2026-03-24",
+    "total_amount": 12893.79,
+    "approved_amount": 12451.86,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 2,
+        "unit": "months",
+        "unit_price": 318.53,
+        "line_total": 637.06
+      },
+      {
+        "line_number": 2,
+        "description": "Preventive maintenance \u2014 September",
+        "category": "maintenance",
+        "quantity": 23,
+        "unit": "days",
+        "unit_price": 50.7,
+        "line_total": 1166.1
+      },
+      {
+        "line_number": 3,
+        "description": "Infrastructure maintenance",
+        "category": "maintenance",
+        "quantity": 34,
+        "unit": "months",
+        "unit_price": 80.46,
+        "line_total": 2735.64
+      },
+      {
+        "line_number": 4,
+        "description": "Annual maintenance contract",
+        "category": "maintenance",
+        "quantity": 17,
+        "unit": "hours",
+        "unit_price": 491.47,
+        "line_total": 8354.99
+      }
+    ],
+    "notes": "Large accept bad eight strong nature road.",
+    "created_by": "Ashley Roberts",
+    "department": "Operations"
+  },
+  {
+    "po_number": "PO-2024-0050",
+    "vendor_id": "VND-005",
+    "status": "closed",
+    "category": "consulting",
+    "created_date": "2025-04-04",
+    "due_date": "2025-09-20",
+    "total_amount": 19999.96,
+    "approved_amount": 19259.83,
+    "currency": "USD",
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Regulatory advisory services",
+        "category": "consulting",
+        "quantity": 12,
+        "unit": "hours",
+        "unit_price": 416.08,
+        "line_total": 4992.96
+      },
+      {
+        "line_number": 2,
+        "description": "Strategic consulting \u2014 Q3 2023",
+        "category": "consulting",
+        "quantity": 30,
+        "unit": "hours",
+        "unit_price": 372.22,
+        "line_total": 11166.6
+      },
+      {
+        "line_number": 3,
+        "description": "IT consulting \u2014 Phase 4",
+        "category": "consulting",
+        "quantity": 20,
+        "unit": "hours",
+        "unit_price": 192.02,
+        "line_total": 3840.4
+      }
+    ],
+    "notes": "",
+    "created_by": "Kathryn Herrera",
+    "department": "Operations"
+  }
+]
