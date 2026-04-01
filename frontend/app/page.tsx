@@ -56,6 +56,9 @@ export default function DashboardPage() {
   const [activity, setActivity] = useState<ActivityItem[]>([])
   const [loading, setLoading] = useState(true)
   const [showUpload, setShowUpload] = useState(false)
+  const [mounted, setMounted] = useState(false)
+
+  useEffect(() => { setMounted(true) }, [])
 
   useEffect(() => {
     async function load() {
@@ -225,36 +228,40 @@ export default function DashboardPage() {
               ))}
             </div>
           </div>
-          <ResponsiveContainer width="100%" height={240}>
-            <BarChart data={CHART_DATA} barGap={4} barCategoryGap="30%">
-              <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" vertical={false} />
-              <XAxis
-                dataKey="month"
-                tick={{ fontSize: 12, fill: '#94a3b8' }}
-                axisLine={false}
-                tickLine={false}
-              />
-              <YAxis
-                tick={{ fontSize: 12, fill: '#94a3b8' }}
-                axisLine={false}
-                tickLine={false}
-                width={30}
-              />
-              <Tooltip
-                contentStyle={{
-                  background: '#fff',
-                  border: '1px solid #e2e8f0',
-                  borderRadius: '8px',
-                  boxShadow: '0 4px 6px -1px rgba(0,0,0,0.1)',
-                  fontSize: '12px',
-                }}
-                cursor={{ fill: '#f8fafc' }}
-              />
-              <Bar dataKey="valid" fill="#3b82f6" radius={[4, 4, 0, 0]} name="Valid" />
-              <Bar dataKey="invalid" fill="#f87171" radius={[4, 4, 0, 0]} name="Invalid" />
-              <Bar dataKey="duplicate" fill="#fbbf24" radius={[4, 4, 0, 0]} name="Duplicate" />
-            </BarChart>
-          </ResponsiveContainer>
+          {mounted ? (
+            <ResponsiveContainer width="100%" height={240}>
+              <BarChart data={CHART_DATA} barGap={4} barCategoryGap="30%">
+                <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" vertical={false} />
+                <XAxis
+                  dataKey="month"
+                  tick={{ fontSize: 12, fill: '#94a3b8' }}
+                  axisLine={false}
+                  tickLine={false}
+                />
+                <YAxis
+                  tick={{ fontSize: 12, fill: '#94a3b8' }}
+                  axisLine={false}
+                  tickLine={false}
+                  width={30}
+                />
+                <Tooltip
+                  contentStyle={{
+                    background: '#fff',
+                    border: '1px solid #e2e8f0',
+                    borderRadius: '8px',
+                    boxShadow: '0 4px 6px -1px rgba(0,0,0,0.1)',
+                    fontSize: '12px',
+                  }}
+                  cursor={{ fill: '#f8fafc' }}
+                />
+                <Bar dataKey="valid" fill="#3b82f6" radius={[4, 4, 0, 0]} name="Valid" />
+                <Bar dataKey="invalid" fill="#f87171" radius={[4, 4, 0, 0]} name="Invalid" />
+                <Bar dataKey="duplicate" fill="#fbbf24" radius={[4, 4, 0, 0]} name="Duplicate" />
+              </BarChart>
+            </ResponsiveContainer>
+          ) : (
+            <div style={{ height: 240 }} className="flex items-center justify-center text-gray-300 text-sm">Loading chart…</div>
+          )}
         </div>
 
         {/* Activity Feed */}
@@ -291,7 +298,7 @@ export default function DashboardPage() {
       <div className="card">
         <div className="flex items-center justify-between px-6 py-4 border-b border-gray-100">
           <h2 className="text-base font-semibold text-gray-900">Recent Invoices</h2>
-          <a href="/invoices" className="text-xs text-blue-600 font-medium hover:underline">
+          <a href="/prototype-for-wrong-invoice/invoices/" className="text-xs text-blue-600 font-medium hover:underline">
             View all invoices
           </a>
         </div>

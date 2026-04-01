@@ -53,6 +53,9 @@ export default function VendorErrorsPage() {
   const [expandedVendor, setExpandedVendor] = useState<string | null>(null)
   const [vendorInvoices, setVendorInvoices] = useState<Record<string, Invoice[]>>({})
   const [activeTab, setActiveTab] = useState<'vendors' | 'chart' | 'emails'>('vendors')
+  const [mounted, setMounted] = useState(false)
+
+  useEffect(() => { setMounted(true) }, [])
 
   useEffect(() => {
     async function load() {
@@ -303,41 +306,45 @@ export default function VendorErrorsPage() {
         <div className="card p-6">
           <h2 className="text-base font-semibold text-gray-900 mb-1">Error Type Distribution</h2>
           <p className="text-xs text-gray-400 mb-6">Total occurrences across all vendors</p>
-          <ResponsiveContainer width="100%" height={320}>
-            <BarChart data={chartData} layout="vertical" barCategoryGap="30%">
-              <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" horizontal={false} />
-              <XAxis
-                type="number"
-                tick={{ fontSize: 12, fill: '#94a3b8' }}
-                axisLine={false}
-                tickLine={false}
-              />
-              <YAxis
-                dataKey="name"
-                type="category"
-                tick={{ fontSize: 12, fill: '#64748b' }}
-                axisLine={false}
-                tickLine={false}
-                width={130}
-              />
-              <Tooltip
-                contentStyle={{
-                  background: '#fff',
-                  border: '1px solid #e2e8f0',
-                  borderRadius: '8px',
-                  boxShadow: '0 4px 6px -1px rgba(0,0,0,0.1)',
-                  fontSize: '12px',
-                }}
-                cursor={{ fill: '#f8fafc' }}
-              />
-              <Bar
-                dataKey="count"
-                name="Error Count"
-                radius={[0, 4, 4, 0]}
-                fill="#f87171"
-              />
-            </BarChart>
-          </ResponsiveContainer>
+          {mounted ? (
+            <ResponsiveContainer width="100%" height={320}>
+              <BarChart data={chartData} layout="vertical" barCategoryGap="30%">
+                <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" horizontal={false} />
+                <XAxis
+                  type="number"
+                  tick={{ fontSize: 12, fill: '#94a3b8' }}
+                  axisLine={false}
+                  tickLine={false}
+                />
+                <YAxis
+                  dataKey="name"
+                  type="category"
+                  tick={{ fontSize: 12, fill: '#64748b' }}
+                  axisLine={false}
+                  tickLine={false}
+                  width={130}
+                />
+                <Tooltip
+                  contentStyle={{
+                    background: '#fff',
+                    border: '1px solid #e2e8f0',
+                    borderRadius: '8px',
+                    boxShadow: '0 4px 6px -1px rgba(0,0,0,0.1)',
+                    fontSize: '12px',
+                  }}
+                  cursor={{ fill: '#f8fafc' }}
+                />
+                <Bar
+                  dataKey="count"
+                  name="Error Count"
+                  radius={[0, 4, 4, 0]}
+                  fill="#f87171"
+                />
+              </BarChart>
+            </ResponsiveContainer>
+          ) : (
+            <div style={{ height: 320 }} className="flex items-center justify-center text-gray-300 text-sm">Loading chart…</div>
+          )}
 
           {/* Legend */}
           <div className="mt-6 grid grid-cols-2 sm:grid-cols-3 gap-3">
